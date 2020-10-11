@@ -1,0 +1,49 @@
+# How to use :
+# caddy_user=admin caddy_pass=123456 docker-compose up -d
+# docker-compose down
+# --------------------------------------------------------------------------------
+
+version: '2'
+services:
+  nginx:
+    hostname: NGINX
+    container_name: docker_nginx
+    image: nginx:mainline
+    volumes:
+      - ./nginx/etc/calibre_site.conf:/etc/nginx/conf.d/calibre_site.conf
+      - ./nginx/html:/usr/share/nginx/html
+    ports:
+      - "80:80"
+    networks: 
+      vpn:
+        ipv4_address: 172.168.25.2
+    restart: on-failure
+
+
+  calibre:
+    hostname: CALIBRE
+    container_name: docker_calibre
+    build: 
+      context: ./calibre
+      dockerfile: ./Dockerfile
+    volumes:
+      - ./books/:/books/
+    ports:
+      - "8083:8083"
+    networks: 
+      vpn:
+        ipv4_address: 172.168.25.3
+    depends_on: 
+      - nginx
+    restart: on-failure
+
+
+networks:
+  vpn:
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet:  172.168.25.0/24
+          gateway: 172.168.25.1
+    

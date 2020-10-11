@@ -1,0 +1,80 @@
+<html lang="zh-cn">
+
+ <head>
+  <meta charset="UTF-8" />
+  <meta name="robots" content="noarchive" />
+  <meta name="author" content="EXP: www.exp-blog.com" />
+  <link rel="stylesheet" type="text/css" href="./css/page.css" />
+  <title>qBitTorrent</title>
+ </head>
+
+ <body class="html">
+
+  <div>
+   <br />
+   <h2><a href="https://github.com/lyy289065406/qBitTorrent-docker">qBitTorrent-docker</a></h2>
+   <br />
+
+   <div>
+    <table id="draw" class="dataintable">
+    <tbody>
+      <tr>
+       <th width="20%">qBitTorrent</th>
+       <th width="80%">http://${vps-ip}:8080</th>
+      </tr>
+      <tr>
+       <td>Nginx Proxy URL</td>
+       <td><a href="/bt/">http://${vps-ip}/bt/</a></td>
+      </tr>
+      <tr>
+       <td>Login Username</td>
+       <td>admin</td>
+      </tr>
+      <tr>
+       <td>Login Password</td>
+       <td>adminadmin</td>
+      </tr>
+      <tr>
+        <td>Modify Password</td>
+        <td>by WEB UI</td>
+      </tr>
+      <tr>
+        <td>Details</td>
+        <td>Offline download on your VPS</td>
+      </tr>
+    </tbody>
+   </div>
+
+   <div>
+    <table id="draw" class="dataintable">
+    <tbody>
+      <tr>
+       <th width="20%">Caddy</th>
+       <th width="80%">http://${vps-ip}:9090</th>
+      </tr>
+      <tr>
+       <td>Nginx Proxy URL</td>
+       <td><a href="/list/">http://${vps-ip}/list/</a></td>
+      </tr>
+      <tr>
+       <td>Login Username</td>
+       <td>admin</td>
+      </tr>
+      <tr>
+       <td>Login Password</td>
+       <td>123456</td>
+      </tr>
+      <tr>
+        <td>Modify Password</td>
+        <td>by docker build arguments</td>
+      </tr>
+      <tr>
+        <td>Details</td>
+        <td>List downloaded files from your VPS</td>
+      </tr>
+    </tbody>
+   </div>
+  
+ </body>
+</html>
+
