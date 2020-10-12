@@ -1,5 +1,5 @@
 # How to use :
-# caddy_user=admin caddy_pass=123456 docker-compose up -d
+# username=admin password=admin123 docker-compose up -d
 # docker-compose down
 # --------------------------------------------------------------------------------
 
@@ -26,6 +26,9 @@ services:
     build: 
       context: ./calibre/mgr
       dockerfile: ./Dockerfile
+      args:
+        - USERNAME=${username}
+        - PASSWORD=${password}
     volumes:
       - ./calibre/config/:/config/
       - ./books/:/books/

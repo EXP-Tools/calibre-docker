@@ -6,6 +6,7 @@ MAINTAINER EXP
 ENV PUID=1000
 ENV PGID=1000
 ENV TZ=Aisa/Shanghai
+ENV DOCKER_MODS=linuxserver/calibre-web:calibre
 
 EXPOSE 8083
 WORKDIR /
