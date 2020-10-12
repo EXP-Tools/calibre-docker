@@ -5,26 +5,26 @@
   <meta name="robots" content="noarchive" />
   <meta name="author" content="EXP: www.exp-blog.com" />
   <link rel="stylesheet" type="text/css" href="./css/page.css" />
-  <title>CalibreLibrary</title>
+  <title>Calibre-Library</title>
  </head>
 
  <body class="html">
 
   <div>
    <br />
-   <h2><a href="https://github.com/lyy289065406/qBitTorrent-docker">qBitTorrent-docker</a></h2>
+   <h2><a href="https://github.com/lyy289065406/calibre-docker">calibre-docker</a></h2>
    <br />
 
    <div>
     <table id="draw" class="dataintable">
     <tbody>
       <tr>
-       <th width="20%">qBitTorrent</th>
+       <th width="20%">Calibre-Manager</th>
        <th width="80%">http://${vps-ip}:8080</th>
       </tr>
       <tr>
        <td>Nginx Proxy URL</td>
-       <td><a href="/bt/">http://${vps-ip}/bt/</a></td>
+       <td><a href="/mgr/">http://${vps-ip}/mgr/</a></td>
       </tr>
       <tr>
        <td>Login Username</td>
@@ -32,15 +32,15 @@
       </tr>
       <tr>
        <td>Login Password</td>
-       <td>adminadmin</td>
+       <td>admin123</td>
       </tr>
       <tr>
         <td>Modify Password</td>
-        <td>by WEB UI</td>
+        <td>by docker build arguments</td>
       </tr>
       <tr>
         <td>Details</td>
-        <td>Offline download on your VPS</td>
+        <td>Upload and manage your books</td>
       </tr>
     </tbody>
    </div>
@@ -49,12 +49,16 @@
     <table id="draw" class="dataintable">
     <tbody>
       <tr>
-       <th width="20%">Caddy</th>
-       <th width="80%">http://${vps-ip}:9090</th>
+       <th width="20%">Calibre-CMS</th>
+       <th width="80%">http://${vps-ip}:8083</th>
       </tr>
       <tr>
        <td>Nginx Proxy URL</td>
-       <td><a href="/list/">http://${vps-ip}/list/</a></td>
+       <td><a href="/cms/">http://${vps-ip}/cms/</a></td>
+      </tr>
+      <tr>
+       <td>OPDS URL</td>
+       <td>http://${vps-ip}:8083/opds/</td>
       </tr>
       <tr>
        <td>Login Username</td>
@@ -66,11 +70,11 @@
       </tr>
       <tr>
         <td>Modify Password</td>
-        <td>by docker build arguments</td>
+        <td>by WEB UI</td>
       </tr>
       <tr>
         <td>Details</td>
-        <td>List downloaded files from your VPS</td>
+        <td>List and download your books</td>
       </tr>
     </tbody>
    </div>
