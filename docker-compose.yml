@@ -20,21 +20,42 @@ services:
     restart: on-failure
 
 
-  calibre:
-    hostname: CALIBRE
-    container_name: docker_calibre
+  calibre_mgr:
+    hostname: CALIBRE_MGR
+    container_name: docker_calibre_mgr
     build: 
-      context: ./calibre
+      context: ./calibre/mgr
       dockerfile: ./Dockerfile
     volumes:
+      - ./calibre/config/:/config/
       - ./books/:/books/
     ports:
-      - "8083:8083"
+      - "8080:8080"
+      - "8081:8081"
     networks: 
       vpn:
         ipv4_address: 172.168.25.3
     depends_on: 
       - nginx
+    restart: on-failure
+
+
+  calibre_cms:
+    hostname: CALIBRE_CMS
+    container_name: docker_calibre_cms
+    build: 
+      context: ./calibre/cms
+      dockerfile: ./Dockerfile
+    volumes:
+      - ./calibre/config/:/config/
+      - ./books/:/books/
+    ports:
+      - "8083:8083"
+    networks: 
+      vpn:
+        ipv4_address: 172.168.25.4
+    depends_on: 
+      - calibre_mgr
     restart: on-failure
 
 

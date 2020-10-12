@@ -5,6 +5,5 @@
 ------
 
 
-/config/CalibreLibrary/metadata.db
-
+/config/Calibre Library
 admin / admin123
