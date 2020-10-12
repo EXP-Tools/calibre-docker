@@ -83,8 +83,8 @@ calibre-web 提供了 OPDS 协议的服务地址：`http://${vps-ip}/cms/opds/`�
 
 - [AIReader](https://play.google.com/store/apps/details?id=com.neverland.alreader&hl=en&gl=US)（推荐）
 - [FullReader](https://play.google.com/store/apps/details?id=com.fullreader&hl=zh_CN)（界面清新但是广告太多）
-- kybook3
 - kindle
+- kybook3
 
 
 以 [AIReader](https://play.google.com/store/apps/details?id=com.neverland.alreader&hl=en&gl=US) 为例：点击【打开书籍】->【风格书库】->【添加目录】，填写 OPDS 服务地址即可。 
