@@ -30,7 +30,7 @@ services:
         - USERNAME=${username}
         - PASSWORD=${password}
     volumes:
-      - ./calibre/config/:/config/
+      - ./data/:/config/
       - ./books/:/books/
     ports:
       - "8080:8080"
@@ -50,7 +50,7 @@ services:
       context: ./calibre/cms
       dockerfile: ./Dockerfile
     volumes:
-      - ./calibre/config/:/config/
+      - ./data/:/config/
       - ./books/:/books/
     ports:
       - "8083:8083"
