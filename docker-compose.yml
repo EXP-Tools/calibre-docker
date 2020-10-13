@@ -1,5 +1,5 @@
 # How to use :
-# username=admin password=admin123 docker-compose up -d
+# username=admin pass_md5=0192023a7bbd73250516f069df18b500 docker-compose up -d
 # docker-compose down
 # --------------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ services:
       dockerfile: ./Dockerfile
       args:
         - USERNAME=${username}
-        - PASSWORD=${password}
+        - PASS_MD5=${pass_md5}
     volumes:
       - ./data/:/config/
       - ./books/:/books/

@@ -38,7 +38,7 @@
 - 宿主机安全组/防火墙（iptables/firewall）放行这些端口的入口流量： 80、8080、8081、8083
 - 下载仓库： `git clone https://github.com/lyy289065406/calibre-docker /usr/local/calibre-docker`
 - 打开仓库目录： `cd /usr/local/calibre-docker`
-- 构建镜像并运行： `caddy_user=admin caddy_pass=admin123 docker-compose up -d` （完全启动约需要 2 分钟）
+- 构建镜像并运行： `./run.sh -u admin -p admin123` （完全启动约需要 2 分钟）
 
 > 构建时设置的是 calibre 后端管理页面的账密，calibre-web 前端账密只能在 CMS 上修改。
 
@@ -84,9 +84,9 @@ calibre-web 提供了 OPDS 协议的服务地址：`http://${vps-ip}/cms/opds/`�
 换言之所有支持 OPDS 协议的 APP 都可以对接到 calibre-web 获取书库中的电子书，例如这些 APP ：
 
 - [AIReader](https://play.google.com/store/apps/details?id=com.neverland.alreader&hl=en&gl=US)（推荐）
-- [FullReader](https://play.google.com/store/apps/details?id=com.fullreader&hl=zh_CN)（界面清新但是广告太多）
+- [FullReader](https://play.google.com/store/apps/details?id=com.fullreader&hl=zh_CN)（界面清新但是有广告）
 - kindle
-- kybook3
+- kybook
 
 
 以 [AIReader](https://play.google.com/store/apps/details?id=com.neverland.alreader&hl=en&gl=US) 为例：点击【打开书籍】->【风格书库】->【添加目录】，填写 OPDS 服务地址即可。 
