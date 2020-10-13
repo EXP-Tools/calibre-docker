@@ -20,5 +20,5 @@ do
   shift
 done
 
-PASSWORD=`echo -n ${PASSWORD} | openssl md5 | awk '{print $2}'`
-username=${USERNAME} pass_md5=${PASSWORD} docker-compose up -d
+PASS_MD5=`echo -n ${PASSWORD} | openssl md5 | awk '{print $2}'`
+username=${USERNAME} pass_md5=${PASS_MD5} docker-compose up -d
