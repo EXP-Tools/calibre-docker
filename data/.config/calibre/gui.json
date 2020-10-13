@@ -14,7 +14,7 @@
   "bulk-mde-casing-algorithm": "title_case",
   "bulk_metadata_window_geometry": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAAYAAAAAAAACdMAAAUYAAAAGQAAABQAAAnSAAAFEwAAAAAAAAAACgAAAAAZAAAAFAAACdIAAAUT"
+    "__value__": "AdnQywADAAAAAAEzAAAA+wAABPEAAAP3AAABNAAAAQ8AAATwAAAD8gAAAAAAAAAABjgAAAE0AAABDwAABPAAAAPy"
   },
   "bulk_metadata_window_tab": 0,
   "cover_browser_splitter_vertical_state": [
@@ -125,10 +125,11 @@
   },
   "metasingle_window_geometry3": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAAYAAAAAAAACdMAAAUYAAAAGQAAABQAAAnSAAAFEwAAAAAAAAAACgAAAAAZAAAAFAAACdIAAAUT"
+    "__value__": "AdnQywADAAAAAAD/AAAApwAABSUAAARLAAABAAAAALsAAAUkAAAERgAAAAAAAAAABjgAAAEAAAAAuwAABSQAAARG"
   },
   "quick_start_guide_added": true,
   "quickview visible": false,
+  "recently_used_languages": [],
   "search bar visible": true,
   "tag_browser_splitter_horizontal_state": [
     true,

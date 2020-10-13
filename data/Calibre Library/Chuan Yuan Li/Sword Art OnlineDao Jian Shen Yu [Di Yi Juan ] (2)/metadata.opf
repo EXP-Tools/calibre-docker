@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c10b28b7-90c8-4162-b496-6f7ce233d569</dc:identifier>
+        <dc:title>Sword Art Online刀剑神域[第一卷]</dc:title>
+        <dc:creator opf:file-as="未知" opf:role="aut">川原砾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-31T00:00:00+00:00</dc:date>
+        <dc:description>一场死亡游戏
+　　即将揭开序幕
+
+　　SAO玩家-桐人，以完全攻略为目标，
+　　在游戏舞台「艾恩葛朗特」城堡里展开一连串严酷的冒险。
+　　途中与女剑士-亚丝娜的相遇，也为桐人带来命中注定的契机——
+
+　　§个人网站超过650万阅览人数，传说中的小说磅礴登场!</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zh</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <dc:subject>SAO</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="刀剑神域"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-13T13:19:25.206082+00:00"/>
+        <meta name="calibre:title_sort" content="Sword Art Online刀剑神域[第一卷]"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5a8962b-c422-4de2-922c-f09d4be9401b</dc:identifier>
+        <dc:title>刀剑神域 017</dc:title>
+        <dc:creator opf:file-as="川原砾" opf:role="aut">川原砾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-24T16:00:00+00:00</dc:date>
+        <dc:description>——「光之巫女」爱丽丝。即使牺牲所有黑暗军队也要得到她。
+「最终负荷实验」第二天。在整合骑士赌上性命奋战之下屈居劣势的黑暗领域军，开始以卑劣的手段来反抗。从外部观测Underworld的美军佣兵——克里达把现实世界的人类投入这场最终决战当中。总共有超过五万名的玩家，参加了所谓「正宗VRMMO游戏的封测」。
+人界军因为黑暗军队的增援而陷入濒死的绝境。光靠亚丝娜一个人实在无法对抗如此庞大的军队。这个时候，地底世界传说中的创世神们降临了。她们是发出闪亮光芒的太阳神索鲁斯，以及温柔、温暖的地母神提拉利亚。这两尊神明，有着诗乃与莉法的外表……</dc:description>
+        <dc:publisher>KADOKAWA</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <dc:subject>SAO</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="刀剑神域"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-13T13:19:34.192301+00:00"/>
+        <meta name="calibre:title_sort" content="刀剑神域 017"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

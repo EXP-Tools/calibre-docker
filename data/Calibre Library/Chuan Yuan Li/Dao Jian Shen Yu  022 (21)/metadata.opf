@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14f7d81f-2af5-4a5b-826e-4c42188ec694</dc:identifier>
+        <dc:title>刀剑神域 022</dc:title>
+        <dc:creator opf:file-as="川原砾" opf:role="aut">川原砾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-11T16:00:00+00:00</dc:date>
+        <dc:description>《The Day Before》——《SAO》攻略期間，桐人向亞絲娜求婚，兩人過上了新婚生活。但到達新房的兩人看到的，卻是難以想象的場面……？ 　　《The Day After》——自從在新生《ALO》內以新的虛擬形象開始遊戲以來，亞絲娜經常遭遇神秘的《脫離現象》。這一現象的原因，是《SAO》時代的一起悲劇—— 　　《虹之橋》——桐人等人結束了海底神殿的冒險。然而海王利維坦和深淵之王克拉肯謎團重重的對話，將一行人引向新的冒險！ 　　《Sisters' Prayer》——《SAO》事件期間，某位少女接受了醫療用完全潛行機器《Medicuboid》的實驗。這就是《絕劍》優紀誕生的軌跡。</dc:description>
+        <dc:publisher>KADOKAWA</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <dc:subject>SAO</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="刀剑神域"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-13T13:19:32.846371+00:00"/>
+        <meta name="calibre:title_sort" content="刀剑神域 022"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

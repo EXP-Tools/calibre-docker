@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2f99631-acfe-464d-b111-abf4cfac913e</dc:identifier>
+        <dc:title>Sword Art Online 第8卷 Early and Late</dc:title>
+        <dc:creator opf:file-as="未知" opf:role="aut">川原砾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-25T00:00:00+00:00</dc:date>
+        <dc:description>GAME OVER就等于真正的“死亡”——谜样次时代线上游戏“SAO刀剑神域”你，敢来挑战吗……?
+在“完全攻略”之前……谁也别想离开!
+SAO玩家-桐人，以完全攻略为目标，在游戏舞台“艾恩葛朗特”城堡里展开一连串严酷的冒险。
+途中与女剑士-亚丝娜的相遇，也为桐人带来命中注定的契机——</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <dc:subject>SAO</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="刀剑神域"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-13T13:19:36.639689+00:00"/>
+        <meta name="calibre:title_sort" content="Sword Art Online 第8卷 Early and Late"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

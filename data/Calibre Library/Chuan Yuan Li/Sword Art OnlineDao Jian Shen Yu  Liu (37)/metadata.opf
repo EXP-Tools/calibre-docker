@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">322f6643-de33-4652-88a2-ab59a40affa1</dc:identifier>
+        <dc:title>Sword Art Online刀剑神域 六</dc:title>
+        <dc:creator opf:file-as="川原砾" opf:role="aut">川原砾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-28T00:00:00+00:00</dc:date>
+        <dc:description>枪与钢铁的VRMMOGunGale Online 最强者决定战，Barrett of Bullets第三届决胜大会会场岛屿。用BattleRoyal的形式进行决战。三十名参加决战的gunner在同一张地图内相互射击。最终存活下来的玩家获得优胜。
+本战的舞台，ISL ragnarok是个直径约为十公里的圆形。是个有着山川森林沙漠的复合舞台，各玩家在地图内被随即分配，随后战斗打响。
+参加者都能自动分配到一个叫做卫星扫描终端。每十五分钟一次，上空会有卫星通过，届时所有人的终端上都会显示出全部玩家的位置。也就是说为了防止被偷袭，不要在同一个地点蹲守十五分钟以上。
+中央的是，繁荣的远古文明遗迹，也就是都市的废墟大厦。将南部舞台一分为二的是一条河流，上面架有一座铁桥。东南部是森另，西部是草原，东部是田园，北部是沙漠。沙漠除了沙地之外，还有这岩石地貌遗迹洞窟存在。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <dc:subject>SAO</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="刀剑神域"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-13T13:19:37.070262+00:00"/>
+        <meta name="calibre:title_sort" content="Sword Art Online刀剑神域 六"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

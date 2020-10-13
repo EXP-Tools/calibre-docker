@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3304e059-bb5c-49f8-81cc-e26a4b6d8e49</dc:identifier>
+        <dc:title>刀剑神域Progressive 003</dc:title>
+        <dc:creator opf:file-as="川原砾" opf:role="aut">川原砾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-12T16:00:00+00:00</dc:date>
+        <dc:description>「要上喽，亚丝娜！好好抓牢啊！──蒂尔妮尔号，出发！」
+和充满谜团的黑暗精灵骑士基滋梅尔分手之后，桐人与亚丝娜就朝着下一层前进。艾恩葛朗特第四层，里头是一片广大的「水路」。
+好不容易来到城镇的两个人，看见了漂浮在湖水上的白垩街道，以及无数大大小小的贡多拉。想在第四层自由地移动，就一定要取得专用的贡多拉。
+桐人和亚丝娜为了获得船材挑战大型火焰兽「大王巨熊‧乌姆」！而他们也将在这个第四层里，与意外的人物再次相遇……！</dc:description>
+        <dc:publisher>KADOKAWA</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <dc:subject>SAO</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="刀剑神域"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-13T13:19:27.295088+00:00"/>
+        <meta name="calibre:title_sort" content="刀剑神域Progressive 003"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
