@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">704c37a7-0914-42fc-8fe9-1cbe177a7ed4</dc:identifier>
+        <dc:title>刀剑神域Progressive 001</dc:title>
+        <dc:creator opf:file-as="川原砾" opf:role="aut">川原砾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-12T16:00:00+00:00</dc:date>
+        <dc:description>「这个游戏是不可能被攻略的。所以只是在什么地方以什么样的形式，以及早死……晚死的差异而已……」
+茅场晶彦所设计的死亡游戏开始已经有一个月的时间。在这款难易度超高的VRMMO里，已经出现了多达两千名的牺牲者。
+「第一层魔王攻略会议」当天。决定只强化自身能力，以「独行」玩家身分战斗的桐人，在前往会场的途中遇见了最前线相当少见的女性玩家。只靠手里的一把细剑持续与怪物进行战斗的她，看起来就像划过夜空的「流星」一般——
+收录了「无星夜的咏叹调」这篇桐人被称呼为「黑色剑士」契机的短篇故事，以及「幻眬剑之回旋曲」这篇描述在攻略「第二层魔王」时，某名少年铁匠的悲伤故事！</dc:description>
+        <dc:publisher>KADOKAWA</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="刀剑神域"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-13T13:19:28.854140+00:00"/>
+        <meta name="calibre:title_sort" content="刀剑神域Progressive 001"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

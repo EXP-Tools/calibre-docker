@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c5f75e7-c5d0-4fcc-953e-de3043fc6199</dc:identifier>
+        <dc:title>Sword Art Online 刀剑神域 11 Alicization Turning</dc:title>
+        <dc:creator opf:file-as="未知" opf:role="aut">川原砾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-21T00:00:00+00:00</dc:date>
+        <dc:description>「这里是......哪里......?」
+睁开眼睛的时候，桐人进入了巨木连绵的森林中——幻想风格的《虚拟世界》中。为了寻找线索而附近徘徊的他，遇到了一位少年。
+「我的名字叫做优吉欧。请多指教，桐人君。」
+身为这个虚拟世界的居民——也就是《NPC》的少年有着丝毫不逊于人类的丰富感情。随着和优吉欧的感情渐渐加深，某段那时孩提时代的桐人和优吉欧一起在野山中穿梭的记忆。而且其中，除了优吉欧之外还有一位金色头发的少女。
+她的名字是，爱丽丝。
+那是不可能忘记的，重要的名字。
+Web上获得最多支持的超人气故事第二章登场！</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="刀剑神域"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-13T13:19:35.943079+00:00"/>
+        <meta name="calibre:title_sort" content="Sword Art Online 刀剑神域 11 Alicization Turning"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

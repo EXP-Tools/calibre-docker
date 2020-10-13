@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9d8aba0-0f1d-4622-9e99-e602bcca5c78</dc:identifier>
+        <dc:title>刀剑神域Progressive 004</dc:title>
+        <dc:creator opf:file-as="川原砾" opf:role="aut">川原砾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-12T16:00:00+00:00</dc:date>
+        <dc:description>被关进死亡游戏「Sword Art Online刀剑神域」后过了两个月左右。身在攻略最前线的桐人与亚丝娜来到了第五层。
+在这个街道宛如迷宫而且森林与河川等自然环境极为稀少的「遗迹」区域，他们两个体验了亦为游戏醍醐味的「遗物捡拾」，赚取道具与珂尔（金钱）。接着桐人提议进行在城镇地下墓地发生的小规模「任务」。亚丝娜虽然同意了，但这也是她不幸的开始。
+因为这个任务里，将有她最感棘手的怪物登场。
+没错，说到墓地的话──
+亚丝娜究竟能不能克服恐惧心，成功攻略第五层呢……？</dc:description>
+        <dc:publisher>KADOKAWA</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="刀剑神域"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-13T13:19:26.888652+00:00"/>
+        <meta name="calibre:title_sort" content="刀剑神域Progressive 004"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

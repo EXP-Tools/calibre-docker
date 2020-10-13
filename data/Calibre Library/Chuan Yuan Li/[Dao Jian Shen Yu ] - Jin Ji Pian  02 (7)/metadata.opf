@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c426971f-61e5-4b40-b7fc-d6ddcf024783</dc:identifier>
+        <dc:title>刀剑神域Progressive 002</dc:title>
+        <dc:creator opf:file-as="川原砾" opf:role="aut">川原砾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-12T16:00:00+00:00</dc:date>
+        <dc:description>经过一番激烈战斗后，打倒了艾恩葛朗特第二层魔王怪物的「封弊者」桐人，以及他暂定的伙伴细剑使——亚丝娜一起爬上通往下一个楼层的阶梯。
+在第三层那里等待两人的，是覆盖整层的苍郁大森林，以及首次出现的大型活动任务。
+两名不同族的精灵骑士正在森林里交战。选择加入某一方后，任务将自动开始。在「封测时期」，这两名NPC一定会同归于尽，但桐人他们不知道为什么成功地让黑暗精灵的女骑士「基滋梅尔」活了下来。虽然跟封测时期不同的发展让人感到困惑，但桐人与亚丝娜两人还是跟NPC基滋梅尔有了深厚的感情。
+另一方面，其他的玩家们终于召开了第三层首次的「攻略会议」。而桐人与亚丝娜则在会议现场被迫面临重大抉择……</dc:description>
+        <dc:publisher>KADOKAWA</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="刀剑神域"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-13T13:19:28.351176+00:00"/>
+        <meta name="calibre:title_sort" content="刀剑神域Progressive 002"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

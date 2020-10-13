@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42aad3e7-82f6-4e46-9a9c-1ff4e6c5c8df</dc:identifier>
+        <dc:title>Sword Art Online 16 Alicization Exploding</dc:title>
+        <dc:creator opf:file-as="未知" opf:role="aut">川原砾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-05T00:00:00+00:00</dc:date>
+        <dc:description>アリシゼーション编?アンダーワールド大戦?、ついに开幕！
+キリトを想うアスナの行方は……？　人界暦三八〇年十一月。
+　アンダーワールド全土を混沌に巻き込む?最终负荷実験?の幕が上がる。
+　暗黒神ベクタことガブリエル?ミラー率いる侵略军50,000に対するは、整合骑士ベルクーリ率いる人界守备军3,000。
+　?霜鳞鞭?のエルドリエ、?炽焔弓?のデュソルバート、の副団长??天穿剣?のファナティオら整合骑士は、数的劣势を跳ね返すべく奋闘を続けるが、敌军の尖兵たる山ゴブリン族は奸计を用いて防卫线をすり抜け、后方の补给部队を狙う。心神丧失状态のキリトを守る少女练士ロニエとティーゼに危机が迫る。
+　更に、侵略军一の奸智を夸る暗黒术师ギルド総长ディー?アイ?エルもまた、恐るべき大规模术式によって守备军の歼灭を図る。対する守备军の総指挥官、整合骑士长ベルクーリがとった作戦とは……。そして、现実世界からアンダーワールドへログインしたアスナの行方は――！</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="刀剑神域"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-13T13:19:34.448323+00:00"/>
+        <meta name="calibre:title_sort" content="Sword Art Online 16 Alicization Exploding"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
