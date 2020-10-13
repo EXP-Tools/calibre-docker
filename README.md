@@ -58,6 +58,8 @@
 
 先把电子书上传到宿主机的 [`books`](books) 目录，然后登录后台管理页面，点击【Add books】，在【/books】目录找到所上传的电子书，点击【Open】即可导入到 calibre 数据库。
 
+> 可以把个人电子书存储到另一个 Repo（如 [ebooks-library](https://github.com/lyy289065406/ebooks-library)），使用时再通过 git clone 拉取到 [`books`](books) 目录
+
 ![](imgs/03.png)
 
 
