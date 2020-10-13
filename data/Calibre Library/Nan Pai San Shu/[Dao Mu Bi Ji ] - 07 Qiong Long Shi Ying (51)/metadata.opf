@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5574cc27-6b71-4ac2-8227-3f29536d5da8</dc:identifier>
+        <dc:title>盗墓笔记7</dc:title>
+        <dc:creator opf:file-as="未知" opf:role="aut">南派三叔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-20T00:00:00+00:00</dc:date>
+        <dc:description>到北京，我们和老九门后人的约见正撞上拍卖会，由于误“点天灯”，我们不得不携拍卖的玉玺逃走。然而，随后交换到的消息，却令双方都大吃一惊!
+　　神秘失踪的考古队，闷油瓶非同寻常的身份，连续多年收到的录像带……所有的秘密，最后竟都指向同一处！为了得到这一切的答案，无邪和闷油瓶兵分两路，前往四川和广西。       样式雷上的张家古楼究竟承载了怎样的过往？幕后操纵的势力难道另有其人？折损了老九门上代全部精英的墓穴吴邪将如何面对？嗜血的毛发、移动的铁衣、诡异的浮雕……谜题终结之前的最后一步，一切问题的答案，就在这道石壁后！</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;南派三叔&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-13T17:03:52.048104+00:00"/>
+        <meta name="calibre:title_sort" content="盗墓笔记7"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

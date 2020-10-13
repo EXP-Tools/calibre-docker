@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d41a6c7-cf6f-45fb-adc4-7d101100b3fa</dc:identifier>
+        <dc:title>鬼吹灯</dc:title>
+        <dc:creator opf:file-as="天下霸唱" opf:role="aut">天下霸唱</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-17T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;font face="宋体, sans-serif" size="2"&gt;鬼吹灯是一个系列形式的文字冒险故事，以一本家传的秘书残卷为引。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="宋体, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="宋体, sans-serif" size="2"&gt;小说中作者首创历史上四大盗墓门派——摸金、卸岭、发丘、搬山，其中摸金是技术含量最高，规矩最多的门派。“人点烛，鬼吹灯”是传说中摸金派的不传之秘，意为进入古墓之中先在东南角点燃一支蜡烛才能开棺，如果蜡烛熄灭，须速速退出，不可取一物。相传这是祖师爷所定的一条活人与死人的契约，千年传承，不得破。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="宋体, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="宋体, sans-serif" size="2"&gt;有谚为证：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="宋体, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="宋体, sans-serif" size="2"&gt;发丘印，摸金符，搬山卸岭寻龙诀；&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="宋体, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="宋体, sans-serif" size="2"&gt;人点烛，鬼吹灯，勘舆倒斗觅星峰；&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="宋体, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="宋体, sans-serif" size="2"&gt;水银斑，养明器，龙楼宝殿去无数；&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="宋体, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="宋体, sans-serif" size="2"&gt;窨沉棺，青铜椁，八字不硬莫近前。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="宋体, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="宋体, sans-serif" size="2"&gt;竖葬坑，匣子坟，搬山卸岭绕着走；&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="宋体, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="宋体, sans-serif" size="2"&gt;赤衣凶，笑面尸，鬼笑莫如听鬼哭。&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;天下霸唱&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-13T16:57:04.619996+00:00"/>
+        <meta name="calibre:title_sort" content="鬼吹灯"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

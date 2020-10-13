@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05a12944-5f81-4fc8-ae58-65ea8245b5f3</dc:identifier>
+        <dc:title>藏海花</dc:title>
+        <dc:creator opf:file-as="未知" opf:role="aut">南派三叔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-22T00:00:00+00:00</dc:date>
+        <dc:description>吴邪五年的平静生活，因金万堂的突然造访而被打断。金万堂竟然知道从张家古楼里带出的月光石上的蝎子图案与幼年闷油瓶有关。为追寻线索，吴邪前往尼泊尔，又辗转到了西藏墨脱。在墨脱，各种与闷油瓶有关的线索纷至沓来！
+　　事情一发不可收拾，吴邪在吉拉寺的喇嘛手里，拿到了闷油瓶的笔记，知道了闷油瓶当年进入雪山的前因后果。令吴邪震惊的是，他在另一本笔记上看到了“世界的极限”——莽莽雪山腹地，竟然有另外一扇青铜巨门！
+　　各路人马集结吉拉寺，这一切是巧合还是有人蓄意安排？那神秘的蝎子究竟有何寓意？“世界的极限”到底是什么？为什么吴邪是唯一能够拯救张家的人？港派张家人是否可信，他们是图谋不轨还是完成使命？
+　　这是一段全新的旅程，吴邪与胖子循着闷油瓶的脚步进入雪山腹地，这一次，吴邪能解开一切谜团吗？</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>玄幻·奇幻</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;南派三叔&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-13T17:03:50.522787+00:00"/>
+        <meta name="calibre:title_sort" content="藏海花"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

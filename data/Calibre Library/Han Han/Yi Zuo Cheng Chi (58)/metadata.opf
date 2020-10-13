@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">58</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04fa05d9-3ebe-4c98-a2d6-10922e1c01fe</dc:identifier>
+        <dc:title>一座城池</dc:title>
+        <dc:creator opf:file-as="未知" opf:role="aut">韩寒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-15T00:00:00+00:00</dc:date>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;韩寒&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-13T17:28:34.273212+00:00"/>
+        <meta name="calibre:title_sort" content="一座城池"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

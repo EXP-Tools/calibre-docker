@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd4b1c4a-4931-4920-b826-c199f13ac3bd</dc:identifier>
+        <dc:title>盗墓笔记5</dc:title>
+        <dc:creator opf:file-as="未知" opf:role="aut">南派三叔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-22T00:00:00+00:00</dc:date>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zh</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;南派三叔&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-13T17:03:52.458726+00:00"/>
+        <meta name="calibre:title_sort" content="盗墓笔记5"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

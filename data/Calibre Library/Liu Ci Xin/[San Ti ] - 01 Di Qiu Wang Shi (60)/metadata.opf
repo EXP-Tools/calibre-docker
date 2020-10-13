@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">60</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0024f82b-efc6-4cd9-b296-1f41a69e5688</dc:identifier>
+        <dc:title>三体1《地球往事》</dc:title>
+        <dc:creator opf:file-as="未知" opf:role="aut">刘慈欣</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-25T00:00:00+00:00</dc:date>
+        <dc:description>这是一个暂名为《地球往事》的系列的第一部，可以看做一个更长的故事的开始。
+
+这是一个关于背叛的故事，也是一个生存与死亡的故事，有时候，比起生存还是死亡来，忠诚与背叛可能更是一个问题。
+
+疯狂与偏执，最终将在人类文明的内部异化出怎样的力量？冷酷的星空将如何拷问心中道德？
+
+作者试图讲述一部在光年尺度上重新演绎的中国现代史，讲述一个文明二百次毁灭与重生的传奇。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;刘慈欣&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-13T17:34:26.309814+00:00"/>
+        <meta name="calibre:title_sort" content="三体1《地球往事》"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

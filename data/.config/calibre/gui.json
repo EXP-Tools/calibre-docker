@@ -119,6 +119,10 @@
       255
     ]
   ],
+  "duplicates-question-dialog-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAIQAAABSAAABBEAAALbAAACEQAAAVwAAAQQAAAC1gAAAAAAAAAABjgAAAIRAAABXAAABBAAAALW"
+  },
   "grid view visible": false,
   "library_usage_stats": {
     "/config/Calibre Library": 1
@@ -129,7 +133,9 @@
   },
   "quick_start_guide_added": true,
   "quickview visible": false,
-  "recently_used_languages": [],
+  "recently_used_languages": [
+    "中文"
+  ],
   "search bar visible": true,
   "tag_browser_splitter_horizontal_state": [
     true,
