@@ -26,6 +26,30 @@
 | [nginx](https://www.nginx.com/) | 反向代理 calibre 服务 | 80 | 项目说明页面 |
 
 
+## 目录结构说明
+
+```
+calibre-docker
+├── books ....................... 缓存目录：导入电子书到 calibre 时，仅可以选择在该目录下的电子书
+├── data ........................ 存档目录：calibre 的数据库（包括电子书本身），用于数据迁移
+├── calibre
+│   ├── cms
+│   │   └── Dockerfile .......... calibre 前端镜像构建脚本
+│   └── mgr
+│       └── Dockerfile .......... calibre 后端镜像构建脚本
+├── nginx
+│   ├── etc
+│   │   └── calibre_site.conf ... 代理服务配置
+│   └── html .................... 代理服务主页
+├── index.html .................. Github Paget：自动跳转到代理服务主页
+├── docker-compose.yml .......... calibre 镜像构建脚本
+├── run.sh ...................... calibre 服务一键启动脚本
+├── stop.sh ..................... calibre 服务一键停止脚本
+├── imgs ........................ README 插图目录
+└── README.md ................... 本仓库说明文档
+```
+
+
 ## 环境要求
 
 ![](https://img.shields.io/badge/Platform-Linux%20amd64-brightgreen.svg) ![](https://img.shields.io/badge/Platform-Mac%20amd64-brightgreen.svg) ![](https://img.shields.io/badge/Platform-Windows%20x64-brightgreen.svg)
@@ -78,7 +102,14 @@
 ![](imgs/05.png)
 
 
-### 5. 在移动设备在线阅读
+## 阅读
+
+### 1. 在线阅读
+
+授权用户权限在线阅读权限
+
+
+### 2. 手机阅读
 
 calibre-web 提供了 OPDS 协议的服务地址：`http://${vps-ip}/cms/opds/`（或 `http://${vps-ip}:8083/opds/`）。
 
@@ -98,25 +129,3 @@ calibre-web 提供了 OPDS 协议的服务地址：`http://${vps-ip}/cms/opds/`�
 ![](imgs/06.png)
 
 
-## 目录结构说明
-
-```
-calibre-docker
-├── books ....................... 缓存目录：导入电子书到 calibre 时，仅可以选择在该目录下的电子书
-├── data ........................ 存档目录：calibre 的数据库（包括电子书本身），用于数据迁移
-├── calibre
-│   ├── cms
-│   │   └── Dockerfile .......... calibre 前端镜像构建脚本
-│   └── mgr
-│       └── Dockerfile .......... calibre 后端镜像构建脚本
-├── nginx
-│   ├── etc
-│   │   └── calibre_site.conf ... 代理服务配置
-│   └── html .................... 代理服务主页
-├── index.html .................. Github Paget：自动跳转到代理服务主页
-├── docker-compose.yml .......... calibre 镜像构建脚本
-├── run.sh ...................... calibre 服务一键启动脚本
-├── stop.sh ..................... calibre 服务一键停止脚本
-├── imgs ........................ README 插图目录
-└── README.md ................... 本仓库说明文档
-```
