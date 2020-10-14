@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e969b729-08d0-47fe-a0ff-ff188c111c37</dc:identifier>
+        <dc:title>暗时间</dc:title>
+        <dc:creator opf:file-as="刘未鹏" opf:role="aut">刘未鹏</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-09T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">1d6ef581-4228-4943-94c3-b7e865c3afc7</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;刘未鹏&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-14T18:14:47.834336+00:00"/>
+        <meta name="calibre:title_sort" content="暗时间"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
