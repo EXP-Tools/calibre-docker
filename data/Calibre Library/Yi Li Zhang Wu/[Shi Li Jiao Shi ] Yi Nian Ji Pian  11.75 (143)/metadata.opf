@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">143</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04eec394-cf9a-4ff9-9d38-340dfc207d5e</dc:identifier>
+        <dc:title>Unknown</dc:title>
+        <dc:creator opf:file-as="衣笠彰梧" opf:role="aut">衣笠彰梧</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;衣笠彰梧&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-14T13:45:40.094036+00:00"/>
+        <meta name="calibre:title_sort" content="Unknown"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

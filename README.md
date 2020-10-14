@@ -129,3 +129,4 @@ calibre-web 提供了 OPDS 协议的服务地址：`http://${vps-ip}/cms/opds/`�
 ![](imgs/06.png)
 
 
+FAQ 迁移数据库后 CMS 无法打开

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">caee76d5-b39b-41da-864d-b9cbcf4e47d3</dc:identifier>
+        <dc:title>欢迎来到实力至上主义的教室二年生編①</dc:title>
+        <dc:creator opf:file-as="衣笠彰梧" opf:role="aut">衣笠彰梧</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-24T00:00:00+00:00</dc:date>
+        <dc:publisher>MF文库J</dc:publisher>
+        <dc:language>zh</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;衣笠彰梧&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-14T13:46:01.501818+00:00"/>
+        <meta name="calibre:title_sort" content="欢迎来到实力至上主义的教室二年生編①"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

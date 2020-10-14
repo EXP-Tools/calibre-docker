@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">133</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a87d1dc-c913-4f78-b09d-c32b550a076e</dc:identifier>
+        <dc:title>歡迎來到實力至上主義的教室 6</dc:title>
+        <dc:creator opf:file-as="衣笠彰梧" opf:role="aut">衣笠彰梧</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-25T16:00:00+00:00</dc:date>
+        <dc:publisher>KADOKAWA</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;衣笠彰梧&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="欢迎来到实力至上主义的教室"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2020-10-14T13:44:49.706958+00:00"/>
+        <meta name="calibre:title_sort" content="歡迎來到實力至上主義的教室 6"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

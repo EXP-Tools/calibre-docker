@@ -4,14 +4,17 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">d89fd8fb-8086-4bc0-b444-ff091aed99d6</dc:identifier>
         <dc:title>光荣日</dc:title>
-        <dc:creator opf:file-as="韩寒, ePUBw.COM" opf:role="aut">韩寒, ePUBw.COM</dc:creator>
+        <dc:creator opf:file-as="韩寒" opf:role="aut">韩寒</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-09-30T16:00:00+00:00</dc:date>
+        <dc:date>2012-09-30T00:00:00+00:00</dc:date>
         <dc:publisher>天津人民出版社</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9787201066905</dc:identifier>
-        <dc:language>zh</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;韩寒, ePUBw.COM&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-14T04:45:24.168260+00:00"/>
+        <dc:language>zho</dc:language>
+        <dc:subject>都市</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;韩寒&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="光荣日"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-14T04:45:24+00:00"/>
         <meta name="calibre:title_sort" content="光荣日"/>
     </metadata>
     <guide>
