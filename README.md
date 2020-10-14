@@ -102,21 +102,21 @@ calibre-web 提供了 OPDS 协议的服务地址：`http://${vps-ip}/cms/opds/`�
 
 ```
 calibre-docker
-├── books
+├── books ....................... 缓存目录：导入电子书到 calibre 时，仅可以选择在该目录下的电子书
+├── data ........................ 存档目录：calibre 的数据库（包括电子书本身），用于数据迁移
 ├── calibre
 │   ├── cms
-│   │   └── Dockerfile
+│   │   └── Dockerfile .......... calibre 前端镜像构建脚本
 │   └── mgr
-│       └── Dockerfile
-├── data
-├── docker-compose.yml
-├── imgs
-├── index.html
+│       └── Dockerfile .......... calibre 后端镜像构建脚本
 ├── nginx
 │   ├── etc
-│   │   └── calibre_site.conf
-│   └── html
-├── README.md
-├── run.sh
-└── stop.sh
+│   │   └── calibre_site.conf ... 代理服务配置
+│   └── html .................... 代理服务主页
+├── index.html .................. Github Paget：自动跳转到代理服务主页
+├── docker-compose.yml .......... calibre 镜像构建脚本
+├── run.sh ...................... calibre 服务一键启动脚本
+├── stop.sh ..................... calibre 服务一键停止脚本
+├── imgs ........................ README 插图目录
+└── README.md ................... 本仓库说明文档
 ```
