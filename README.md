@@ -12,6 +12,7 @@
 - Calibre-web 是 Calibre 的 CMS 界面，用于读取和下载 Calibre 数据库中的电子书，同时它支持 OPDS 协议
 - [OPDS](https://en.wikipedia.org/wiki/OPDS) 全称是 Open Publication Distribution System 开放式出版发布系统，是基于 Atom 和 Http 的一种目录格式。OPDS 主要实现 2 个功能：(1) 让电子出版物被发现，可以使用简单的搜索和一些其他的浏览器技术；(2) 让用户下载电子出版物，直接免费下载或进行出售
 
+## TODO 运行效果
 
 
 ## 项目说明
@@ -36,7 +37,7 @@
 
 - 宿主机安装 docker、docker-compose
 - 宿主机安全组/防火墙（iptables/firewall）放行这些端口的入口流量： 80、8080、8081、8083
-- 下载仓库： `git clone https://github.com/lyy289065406/calibre-docker /usr/local/calibre-docker`
+- 下载仓库： `git clone -b main --single-branch https://github.com/lyy289065406/calibre-docker /usr/local/calibre-docker`
 - 打开仓库目录： `cd /usr/local/calibre-docker`
 - 构建镜像并运行： `./run.sh -u admin -p admin123` （完全启动约需要 2 分钟）
 
@@ -83,13 +84,39 @@ calibre-web 提供了 OPDS 协议的服务地址：`http://${vps-ip}/cms/opds/`�
 
 换言之所有支持 OPDS 协议的 APP 都可以对接到 calibre-web 获取书库中的电子书，例如这些 APP ：
 
-- [AIReader](https://play.google.com/store/apps/details?id=com.neverland.alreader&hl=en&gl=US)（推荐）
-- [FullReader](https://play.google.com/store/apps/details?id=com.fullreader&hl=zh_CN)（界面清新但是广告太多）
-- kindle
-- kybook3
+| APP | 适用设备/系统 | 说明 |
+|:---:|:---:|:---|
+| [FullReader](https://play.google.com/store/apps/details?id=com.fullreader&hl=zh_CN) | Android | 界面清新但是有广告 |
+| [AIReader](https://play.google.com/store/apps/details?id=com.neverland.alreader&hl=en&gl=US) | Android | 没有广告但是外观不好看 |
+| [AIReader](https://play.google.com/store/apps/details?id=com.neverland.alreader&hl=en&gl=US) | Android | 没有广告但是外观不好看 |
+| kindle | kindle | 仅 kindle 设备支持 OPDS，Android 版不支持 |
+| kybook3 | iPhone | 原作者已停更 |
 
 
 以 [AIReader](https://play.google.com/store/apps/details?id=com.neverland.alreader&hl=en&gl=US) 为例：点击【打开书籍】->【风格书库】->【添加目录】，填写 OPDS 服务地址即可。 
 
 ![](imgs/06.png)
 
+
+## 目录结构说明
+
+```
+calibre-docker
+├── books
+├── calibre
+│   ├── cms
+│   │   └── Dockerfile
+│   └── mgr
+│       └── Dockerfile
+├── data
+├── docker-compose.yml
+├── imgs
+├── index.html
+├── nginx
+│   ├── etc
+│   │   └── calibre_site.conf
+│   └── html
+├── README.md
+├── run.sh
+└── stop.sh
+```

@@ -4,14 +4,16 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">42</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">37369234-e4b4-4907-a539-befc1e9918b1</dc:identifier>
         <dc:title>琅琊榜</dc:title>
-        <dc:creator opf:file-as="未知" opf:role="aut">海宴</dc:creator>
+        <dc:creator opf:file-as="海宴" opf:role="aut">海宴</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-12-21T00:00:00+00:00</dc:date>
         <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
         <dc:subject>武侠</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;海宴&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-13T16:30:52.449171+00:00"/>
+        <meta name="calibre:series" content="琅琊榜"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-13T16:30:52+00:00"/>
         <meta name="calibre:title_sort" content="琅琊榜"/>
     </metadata>
     <guide>

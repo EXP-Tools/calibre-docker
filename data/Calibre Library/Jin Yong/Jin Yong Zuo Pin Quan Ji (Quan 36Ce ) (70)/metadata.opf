@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">70</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df81ab25-a7b4-40f7-8158-62996538e2d0</dc:identifier>
+        <dc:title>金庸作品全集（新修版）（全36册） (金庸作品集)</dc:title>
+        <dc:creator opf:file-as="金庸" opf:role="aut">金庸</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-05T00:00:00+00:00</dc:date>
+        <dc:publisher>浙江出版集团数字传媒有限公司</dc:publisher>
+        <dc:identifier opf:scheme="ASIN">B075DYVSCD</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;金庸&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-14T04:46:07.753787+00:00"/>
+        <meta name="calibre:title_sort" content="金庸作品全集（新修版）（全36册） (金庸作品集)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

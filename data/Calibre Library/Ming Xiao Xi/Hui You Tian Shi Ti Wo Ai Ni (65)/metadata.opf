@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">65</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9411942d-49cf-4e09-a5e3-2e32cc848436</dc:identifier>
+        <dc:title>会有天使替我爱你</dc:title>
+        <dc:creator opf:file-as="明晓溪" opf:role="aut">明晓溪</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T14:20:35+00:00</dc:date>
+        <dc:description>会有天使替我爱你</dc:description>
+        <dc:publisher>ixdzs.com</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;明晓溪&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-14T04:45:47.166559+00:00"/>
+        <meta name="calibre:title_sort" content="会有天使替我爱你"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
