@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">90</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7cff95f6-211b-4673-b5c2-a1211d57f8e0</dc:identifier>
+        <dc:title>Re：从零开始的异世界生活11</dc:title>
+        <dc:creator opf:file-as="no3body" opf:role="aut">长月达平</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-08T00:00:00+00:00</dc:date>
+        <dc:description>跨越「试炼」，整理好对留在原本世界的双亲的心情后，菜月‧昴要支持爱蜜莉雅，救醒雷姆——就在为这新的决心做好四处奔走的觉悟时，昴又再度于熟悉的痛苦中殒命，然后「死亡回归」。
+
+与「掏肠者」艾尔莎——在异世界中第一个杀死昴的杀手再会。
+
+与强敌再战而感到战栗的昴，利用「死亡回归」摸索最佳策略。可是，第二次的「圣域」轮回却走上跟昴的记忆完全不同的发展——
+
+「本大爷啊——不准公主殿下以外的人挑战『试炼』。就只有你，绝对不准。」
+
+超受欢迎的网路小说，波涛汹涌又浑沌不明的第十一集。——螺旋的齿轮开始错位。</dc:description>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <dc:subject>Re0</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;长月达平&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-14T12:44:55.827146+00:00"/>
+        <meta name="calibre:title_sort" content="Re：从零开始的异世界生活11"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

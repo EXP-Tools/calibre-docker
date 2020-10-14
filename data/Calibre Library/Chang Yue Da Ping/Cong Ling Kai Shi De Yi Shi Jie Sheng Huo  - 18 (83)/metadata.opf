@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">83</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4b4781b-4e42-4ed0-9ea1-81dbc9d8948a</dc:identifier>
+        <dc:title>Re：从零开始的异世界生活 18</dc:title>
+        <dc:creator opf:file-as="no3body" opf:role="aut">长月达平</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-28T00:00:00+00:00</dc:date>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <dc:subject>Re0</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;长月达平&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-14T12:44:52.429635+00:00"/>
+        <meta name="calibre:title_sort" content="Re：从零开始的异世界生活 18"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

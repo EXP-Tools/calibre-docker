@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">91</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67da9d0e-5629-47bd-b3b9-98181400e4dd</dc:identifier>
+        <dc:title>Re:从零开始的异世界生活 10</dc:title>
+        <dc:creator opf:file-as="Star_of_Africa" opf:role="aut">长月达平</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-25T00:00:00+00:00</dc:date>
+        <dc:description>菜月‧昴成功歼灭魔女教大罪司教「怠惰」，得以与爱蜜莉雅重逢。两人跨越之前的辛酸诀别，达成和解，但新的动乱又拉开序幕。另一半的避难村民没有回来，阿拉姆村洋溢着焦虑不安。为了和同样没回来的罗兹瓦尔以及拉姆碰面，昴他们一路赶往被称为「圣域」的地方。在那里等待他们的，是无法用普通方式应对的居民，以及笑容诡异的罗兹瓦尔。——还有，伫立在梦之草原上的一名「魔女」。
+「我名叫艾姬多娜。讲『强欲魔女』这个名号，比较多人听过吧？」
+超人气网络小说，过去与誓言的第十幕。——进入过去与现在交错的新篇章！</dc:description>
+        <dc:publisher>轻之国度ePub工作组</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <dc:subject>Re0</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;长月达平&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-14T12:44:56.193774+00:00"/>
+        <meta name="calibre:title_sort" content="Re:从零开始的异世界生活 10"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
