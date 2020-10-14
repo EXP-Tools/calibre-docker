@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">120</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df5a7589-0805-4dde-9347-4eb7b935d5b9</dc:identifier>
+        <dc:title>加速世界 13 水岸的号火</dc:title>
+        <dc:creator opf:file-as="michiru1115" opf:role="aut">川原砾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-18T00:00:00+00:00</dc:date>
+        <dc:description>春雪作为Sliver·Crow获得了新能力《光学诱导》。终于，完成了与《梅塔特隆》决战的準备，战斗舞台转移到梅乡中学的文化祭上。把文化祭的入场卷给了《Scarlet·Rain》仁子和《Ash·Roller》日下部纶的春雪，受到了黑雪姬的冰属性气场所威胁，帮助了班级展示的工作和其他事务。然后，对于文化祭当天的期待日渐膨胀起来。但是，企图将混沌传遍整个加速世界的《Magenta Scissor》的魔爪却从意料之外的方向逐渐逼近——！</dc:description>
+        <dc:publisher>轻之国度</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <dc:subject>AccelWorld</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-14T12:59:47.187110+00:00"/>
+        <meta name="calibre:title_sort" content="加速世界 13 水岸的号火"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
