@@ -70,7 +70,7 @@ calibre-docker
 
 - 宿主机安装 docker、docker-compose
 - 宿主机安全组/防火墙（iptables/firewall）放行这些端口的入口流量： 80、8080、8081、8083
-- 下载仓库： `git clone -b main --single-branch https://github.com/lyy289065406/calibre-docker /usr/local/calibre-docker`
+- 下载仓库： `git clone -b main --single-branch https://github.com/lyy289065406/calibre-docker /usr/local/calibre-docker` （只下载 main 主分支即可）
 - 打开仓库目录： `cd /usr/local/calibre-docker`
 - 构建镜像并运行： `./run.sh -u admin -p admin123` （完全启动约需要 2 分钟）
 
@@ -159,3 +159,15 @@ calibre-web 提供了 OPDS 协议的服务地址：`http://${vps-ip}/cms/opds/`�
 - 执行 [`stop.sh`](stop.sh) 脚本停止 calibre 服务
 - 查看 [`data/.config/calibre/gui.json`](data/.config/calibre/gui.json) 的 `library_usage_stats` 状态值是否为 `1`，若不是则修改为 `1`
 - 执行 [`run.sh`](stop.sh) 脚本重新启动 calibre 服务，此时 CMS 服务应该可以正常启动了
+
+
+### Q2. 项目仓库太大无法下载到本地
+
+本仓库包含 main 和 produce 两个分支，其中：
+
+- main： 干净分支，纯粹用于构建私人书库
+- produce： 我的生产环境分支，归档了我的个人书库数据，而且会越来越大
+
+因此 produce 分支是不需要下载的，只下载 main 主分支即可：
+
+`git clone -b main --single-branch https://github.com/lyy289065406/calibre-docker`
