@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">239</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb27d773-55c2-4cf1-9742-5bfa50e1c137</dc:identifier>
+        <dc:title>悟空传（典藏纪念版）</dc:title>
+        <dc:creator opf:file-as="今何在" opf:role="aut">今何在</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-20T02:33:12+00:00</dc:date>
+        <dc:description>悟空传（典藏纪念版）</dc:description>
+        <dc:publisher>ixdzs.com</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;今何在&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-18T17:47:31.145881+00:00"/>
+        <meta name="calibre:title_sort" content="悟空传（典藏纪念版）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

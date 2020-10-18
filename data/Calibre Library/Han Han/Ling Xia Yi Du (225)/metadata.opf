@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">225</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6713148-c819-4981-8290-6e1fbaff76b1</dc:identifier>
+        <dc:title>零下一度</dc:title>
+        <dc:creator opf:file-as="韩寒" opf:role="aut">韩寒</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T16:02:29+00:00</dc:date>
+        <dc:description>零下一度</dc:description>
+        <dc:publisher>ixdzs.com</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>都市</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;韩寒&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-18T16:46:17.933579+00:00"/>
+        <meta name="calibre:title_sort" content="零下一度"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">241</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d65997c5-e6e4-4c7f-ade0-e13201f7740b</dc:identifier>
+        <dc:title>古龙作品集</dc:title>
+        <dc:creator opf:file-as="丨淡淡一笑" opf:role="aut">古龙</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-24T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;古龙，原名熊耀华，籍贯江西，汉族。1938年6月7日生于香港。&lt;/div&gt;&lt;div&gt;著名武侠小说家，新派武侠小说泰斗，与金庸、梁羽生并称为中国武侠小说三大宗师。代表作有《多情剑客无情剑》、《绝代双骄》、《英雄无泪》等。古龙把武侠小说引入了经典文学的殿堂，将戏剧、推理、诗歌等元素带入传统武侠，又将自己独特的人生哲学融入其中，使中外经典镕铸一炉，开创了近代武侠小说新纪元，将武侠文学推上了一个新的高峰。&lt;/div&gt;&lt;div&gt;1985年9月21日，因肝硬化、静脉出血，古龙在台湾去世，终年48岁。&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;古龙&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-18T23:42:08.045857+00:00"/>
+        <meta name="calibre:title_sort" content="古龙作品集"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
