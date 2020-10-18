@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">169</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2cb2d7a6-8954-4b06-b6ad-a4736ec193fa</dc:identifier>
+        <dc:title>fate/strange fake 02</dc:title>
+        <dc:creator opf:file-as="成田良悟" opf:role="aut">成田良悟</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-31T00:00:00+00:00</dc:date>
+        <dc:description>《Fate/strange fake》是由成田良悟執筆，森井しづき負責插畫的，奈須蘑菇筆下的型月世界為背景舞臺的小說作品。原本是在2008年愚人節以《Fate/states night》為標題所發表的游戲企劃，后來在TYPE-MOON的雜志《TYPE-MOON Ace Vol.2》的附錄中刊載了當中的序章小說。于2015年1月文庫化、漫畫化。</dc:description>
+        <dc:publisher>epub掌上書苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>輕小說</dc:subject>
+        <dc:subject>轻小说</dc:subject>
+        <dc:subject>Fate</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;成田良悟&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Fate"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-18T02:15:39.821255+00:00"/>
+        <meta name="calibre:title_sort" content="fate/strange fake 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

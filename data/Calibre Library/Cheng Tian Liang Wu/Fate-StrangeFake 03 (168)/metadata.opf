@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">168</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2a1aa14-7710-4ac9-aa09-81d622c60fcd</dc:identifier>
+        <dc:title>fate strange fake 第三卷</dc:title>
+        <dc:creator opf:file-as="成田良悟" opf:role="aut">成田良悟</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-19T00:00:00+00:00</dc:date>
+        <dc:description>将伪圣杯战争的最后的从者当做真圣杯战争的第一位英灵，以谜之Saber的召唤为始，六位真英灵陆续地于斯诺菲尔德之地出现。与最强的英灵互角的Archer，黑幕其中一人的法尔迪乌斯所召唤的Assassin，以及被弗兰切丝卡所雇的佣兵Sigma召唤的“Extra 职阶”。
+但是，Sigma还不知道。他所召唤出的东西，是难以归为英雄或是魔神之类的，十分异常的“现象”之事。为了满足雇主的好奇心，仅仅身为不确定要素的他，作为最大的非常规者卷入了战斗……
+开展之日的黎明之时。斯诺菲尔德这一扭曲的战场上，所有的棋子俱全。以连最终完成的绘图会是怎样，无人能想象的状态。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <dc:subject>Fate</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;成田良悟&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Fate"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-18T02:15:38.610114+00:00"/>
+        <meta name="calibre:title_sort" content="fate strange fake 第三卷"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

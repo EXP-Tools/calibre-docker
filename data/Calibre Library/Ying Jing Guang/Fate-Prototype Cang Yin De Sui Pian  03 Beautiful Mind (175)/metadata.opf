@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">175</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d58bbd3e-b62d-4e6f-b445-a5128ca8e104</dc:identifier>
+        <dc:title>Fate/Prototype 苍银的碎片第三卷</dc:title>
+        <dc:creator opf:file-as="樱井光" opf:role="aut">樱井光</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-07T00:00:00+00:00</dc:date>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <dc:subject>Fate</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;樱井光&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Fate"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-18T02:15:48.315148+00:00"/>
+        <meta name="calibre:title_sort" content="Fate/Prototype 苍银的碎片第三卷"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

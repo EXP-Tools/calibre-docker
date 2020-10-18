@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">192</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d34df6ae-dfa6-4a3a-9a42-e4e3493ab751</dc:identifier>
+        <dc:title>埃尔梅罗二世事件簿第五卷</dc:title>
+        <dc:creator opf:file-as="三田城" opf:role="aut">三田城</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-03T00:00:00+00:00</dc:date>
+        <dc:description>翻译：AntiTempest       （百度贴吧）
+EPUB制作：黑白熊        （百度贴吧）
+仅供个人学习交流使用，禁作商业用途
+下载后请在24小时内删除，本熊不负担任何责任
+请尊重翻译、扫图、录入、校对的辛勤劳动，转载请保留信息</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <dc:subject>Fate</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;三田城&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Fate"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-18T02:16:01.798339+00:00"/>
+        <meta name="calibre:title_sort" content="埃尔梅罗二世事件簿第五卷"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

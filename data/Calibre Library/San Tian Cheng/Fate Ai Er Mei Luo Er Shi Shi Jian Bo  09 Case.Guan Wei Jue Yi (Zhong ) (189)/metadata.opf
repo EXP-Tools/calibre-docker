@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">189</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0534025-a313-405d-9953-c3daf53b7717</dc:identifier>
+        <dc:title>埃尔梅罗Ⅱ世事件簿第九卷</dc:title>
+        <dc:creator opf:file-as="三田城" opf:role="aut">三田城</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-17T00:00:00+00:00</dc:date>
+        <dc:description>网译版 转自 百度贴吧
+翻译：绿天晴
+EPUB制作：秀才的书</dc:description>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <dc:subject>Fate</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;三田城&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Fate"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-18T02:16:00.789340+00:00"/>
+        <meta name="calibre:title_sort" content="埃尔梅罗Ⅱ世事件簿第九卷"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

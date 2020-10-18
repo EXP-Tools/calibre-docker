@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">165</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">623ff826-2787-47b4-beaa-17356653bf3b</dc:identifier>
+        <dc:title>Fate Strange Fake(6)中</dc:title>
+        <dc:creator opf:file-as="成田良悟" opf:role="aut">成田良悟</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>株式会社ＫＡＤＯＫＡＷＡ</dc:publisher>
+        <dc:identifier opf:scheme="ASIN">57f76af5-dcc4-4e4a-9fbd-590e97ce23ed</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <dc:subject>Fate</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;成田良悟&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Fate"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-18T02:15:36.231043+00:00"/>
+        <meta name="calibre:title_sort" content="Fate Strange Fake(6)中"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
