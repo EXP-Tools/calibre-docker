@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">213</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">870c1e1c-d9e4-458b-836b-6d411a86d85e</dc:identifier>
+        <dc:title>地火</dc:title>
+        <dc:creator opf:file-as="刘慈欣" opf:role="aut">刘慈欣</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>地火</dc:description>
+        <dc:publisher>ixdzs.com</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;刘慈欣&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-18T11:43:57.545295+00:00"/>
+        <meta name="calibre:title_sort" content="地火"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
