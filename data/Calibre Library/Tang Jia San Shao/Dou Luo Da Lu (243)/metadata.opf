@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">243</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5d3d41b-dae9-400a-a9bb-b0eab8b3b83e</dc:identifier>
+        <dc:title>斗罗大陆</dc:title>
+        <dc:creator opf:file-as="唐家三少" opf:role="aut">唐家三少</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-14T10:42:43+00:00</dc:date>
+        <dc:description>斗罗大陆</dc:description>
+        <dc:publisher>ixdzs.com</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;唐家三少&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-19T00:23:36.355370+00:00"/>
+        <meta name="calibre:title_sort" content="斗罗大陆"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
