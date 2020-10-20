@@ -1,73 +1,78 @@
 # How to use :
-# username=admin pass_md5=0192023a7bbd73250516f069df18b500 docker-compose up -d
+# username=admin pass_md5=0192023a7bbd73250516f069df18b500 uid=1000 gid=1000 docker-compose up -d
 # docker-compose down
 # --------------------------------------------------------------------------------
 
-version: '2'
-services:
-  nginx:
-    hostname: NGINX
-    container_name: docker_nginx
-    image: nginx:mainline
-    volumes:
-      - ./nginx/etc/calibre_site.conf:/etc/nginx/conf.d/calibre_site.conf
-      - ./nginx/html:/usr/share/nginx/html
-    ports:
-      - "80:80"
-    networks: 
-      vpn:
-        ipv4_address: 172.168.25.2
-    restart: on-failure
-
-
-  calibre_mgr:
-    hostname: CALIBRE_MGR
-    container_name: docker_calibre_mgr
-    build: 
-      context: ./calibre/mgr
-      dockerfile: ./Dockerfile
-      args:
-        - USERNAME=${username}
-        - PASS_MD5=${pass_md5}
-    volumes:
-      - ./data/:/config/
-      - ./books/:/books/
-    ports:
-      - "8080:8080"
-      - "8081:8081"
-    networks: 
-      vpn:
-        ipv4_address: 172.168.25.3
-    depends_on: 
-      - nginx
-    restart: on-failure
-
-
-  calibre_cms:
-    hostname: CALIBRE_CMS
-    container_name: docker_calibre_cms
-    build: 
-      context: ./calibre/cms
-      dockerfile: ./Dockerfile
-    volumes:
-      - ./data/:/config/
-      - ./books/:/books/
-    ports:
-      - "8083:8083"
-    networks: 
-      vpn:
-        ipv4_address: 172.168.25.4
-    depends_on: 
-      - calibre_mgr
-    restart: on-failure
-
-
-networks:
-  vpn:
-    driver: bridge
-    ipam:
-      driver: default
-      config:
-        - subnet:  172.168.25.0/24
-          gateway: 172.168.25.1
-    
+  version: '2'
+  services:
+    nginx:
+      hostname: NGINX
+      container_name: docker_nginx
+      image: nginx:mainline
+      volumes:
+        - ./nginx/etc/calibre_site.conf:/etc/nginx/conf.d/calibre_site.conf
+        - ./nginx/html:/usr/share/nginx/html
+      ports:
+        - "80:80"
+      networks: 
+        vpn:
+          ipv4_address: 172.168.25.2
+      restart: on-failure
+  
+  
+    calibre_mgr:
+      image: linuxserver/calibre
+      hostname: CALIBRE_MGR
+      container_name: docker_calibre_mgr
+      environment:
+        - PUID=${uid}
+        - PGID=${gid}
+        - TZ=Aisa/Shanghai
+        - GUAC_USER=${username}
+        - GUAC_PASS=${pass_md5}
+        - UMASK_SET=022
+      volumes:
+        - ./data/:/config/
+        - ./books/:/books/
+      ports:
+        - "8080:8080"
+        - "8081:8081"
+      networks: 
+        vpn:
+          ipv4_address: 172.168.25.3
+      depends_on: 
+        - nginx
+      restart: on-failure
+  
+  
+    calibre_cms:
+      image: linuxserver/calibre-web
+      hostname: CALIBRE_CMS
+      container_name: docker_calibre_cms
+      environment:
+        - PUID=${uid}
+        - PGID=${gid}
+        - TZ=Aisa/Shanghai
+        - DOCKER_MODS=linuxserver/calibre-web:calibre
+      volumes:
+        - ./data/:/config/
+        - ./books/:/books/
+      ports:
+        - "8083:8083"
+      networks: 
+        vpn:
+          ipv4_address: 172.168.25.4
+      depends_on: 
+        - calibre_mgr
+      restart: on-failure
+  
+  
+  networks:
+    vpn:
+      driver: bridge
+      ipam:
+        driver: default
+        config:
+          - subnet:  172.168.25.0/24
+            gateway: 172.168.25.1
+      
