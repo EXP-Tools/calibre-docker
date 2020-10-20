@@ -21,16 +21,16 @@ services:
 
 
   calibre_mgr:
+    image: linuxserver/calibre
     hostname: CALIBRE_MGR
     container_name: docker_calibre_mgr
-    build: 
-      context: ./calibre/mgr
-      dockerfile: ./Dockerfile
-      args:
-        - UID=${uid}
-        - GID=${gid}
-        - USERNAME=${username}
-        - PASS_MD5=${pass_md5}
+    environment:
+      - PUID=${uid}
+      - PGID=${gid}
+      - TZ=Aisa/Shanghai
+      - GUAC_USER=${username}
+      - GUAC_PASS=${pass_md5}
+      - UMASK_SET=022
     volumes:
       - ./data/:/config/
       - ./books/:/books/
@@ -46,14 +46,14 @@ services:
 
 
   calibre_cms:
+    image: linuxserver/calibre-web
     hostname: CALIBRE_CMS
     container_name: docker_calibre_cms
-    build: 
-      context: ./calibre/cms
-      dockerfile: ./Dockerfile
-      args:
-        - UID=${uid}
-        - GID=${gid}
+    environment:
+      - PUID=${uid}
+      - PGID=${gid}
+      - TZ=Aisa/Shanghai
+      - DOCKER_MODS=linuxserver/calibre-web:calibre
     volumes:
       - ./data/:/config/
       - ./books/:/books/
