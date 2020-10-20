@@ -72,7 +72,7 @@ calibre-docker
 - 宿主机安全组/防火墙（iptables/firewall）放行这些端口的入口流量： 80、8080、8081、8083
 - 下载仓库： `git clone -b main --single-branch https://github.com/lyy289065406/calibre-docker /usr/local/calibre-docker` （只下载 main 主分支即可）
 - 打开仓库目录： `cd /usr/local/calibre-docker`
-- 构建镜像并运行： `./run.sh -u admin -p admin123` （完全启动约需要 2 分钟）
+- 构建镜像并运行： `./run.sh -u admin -p admin123` （**完全启动约需要 2 分钟，书库越大启动越慢**）
 
 > 构建时设置的是 calibre 后端管理页面的账密，calibre-web 前端账密只能在 CMS 上修改。
 
