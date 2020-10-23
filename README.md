@@ -39,23 +39,23 @@
 
 ```
 calibre-docker
-├── books ....................... 缓存目录：导入电子书到 calibre 时，仅可以选择在该目录下的电子书
-├── data ........................ 存档目录：calibre 的数据库（包括电子书本身），用于数据迁移
+├── books ....................... [缓存目录：导入电子书到 calibre 时，仅可以选择在该目录下的电子书]
+├── data ........................ [存档目录：calibre 的数据库（包括电子书本身），用于数据迁移]
 ├── calibre
 │   ├── cms
-│   │   └── Dockerfile .......... calibre 前端镜像构建脚本
+│   │   └── Dockerfile .......... [calibre 前端镜像构建脚本]
 │   └── mgr
-│       └── Dockerfile .......... calibre 后端镜像构建脚本
+│       └── Dockerfile .......... [calibre 后端镜像构建脚本]
 ├── nginx
 │   ├── etc
-│   │   └── calibre_site.conf ... 代理服务配置
-│   └── html .................... 代理服务主页
-├── index.html .................. Github Paget：自动跳转到代理服务主页
-├── docker-compose.yml .......... calibre 镜像构建脚本
-├── run.sh ...................... calibre 服务一键启动脚本
-├── stop.sh ..................... calibre 服务一键停止脚本
-├── imgs ........................ README 插图目录
-└── README.md ................... 本仓库说明文档
+│   │   └── calibre_site.conf ... [代理服务配置]
+│   └── html .................... [代理服务主页]
+├── index.html .................. [Github Paget：自动跳转到代理服务主页]
+├── docker-compose.yml .......... [calibre 镜像构建脚本]
+├── run.sh ...................... [calibre 服务一键启动脚本]
+├── stop.sh ..................... [calibre 服务一键停止脚本]
+├── imgs ........................ [README 插图目录]
+└── README.md ................... [本仓库说明文档]
 ```
 
 
@@ -136,8 +136,9 @@ calibre-web 提供了 OPDS 协议的服务地址：`http://${vps-ip}/cms/opds/`�
 |:---:|:---:|:---|
 | [FullReader](https://play.google.com/store/apps/details?id=com.fullreader&hl=zh_CN) | Android | 界面清新但是有广告，而且汉化不完全，有少量韩文 |
 | [AIReader](https://play.google.com/store/apps/details?id=com.neverland.alreader&hl=en&gl=US) | Android | 没有广告但是外观不好看 |
-| kindle | kindle | 仅 kindle 设备支持 OPDS，Android 版不支持 |
-| kybook3 | iPhone | 原作者已停更 |
+| kybook3 | iOS | 目前已知 iOS 唯一支持 OPDS 的 APP |
+| kindle | kindle | 仅 kindle 设备支持 OPDS，Android 和 iOS 不支持 |
+
 
 
 以 [FullReader](https://play.google.com/store/apps/details?id=com.fullreader&hl=zh_CN) 为例：点击【网络图书馆】->【添加OPDS目录】，填写 calibre 的 OPDS 服务地址和 BasicAuth 账号密码即可。
