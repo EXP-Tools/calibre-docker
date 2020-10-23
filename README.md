@@ -137,7 +137,7 @@ calibre-web 提供了 OPDS 协议的服务地址：`http://${vps-ip}/cms/opds/`�
 | [FullReader](https://play.google.com/store/apps/details?id=com.fullreader&hl=zh_CN) | Android | 界面清新但是有广告，而且汉化不完全，有少量韩文 |
 | [AIReader](https://play.google.com/store/apps/details?id=com.neverland.alreader&hl=en&gl=US) | Android | 没有广告但是外观不好看 |
 | kybook3 | iOS | 目前已知 iOS 唯一支持 OPDS 的 APP |
-| kindle | kindle | 仅 kindle 设备支持 OPDS，Android 和 iOS 不支持 |
+| kindle | kindle | 仅在 kindle 设备上支持 OPDS，在 Android/iOS 上不支持 |
 
 
 
