@@ -58,7 +58,6 @@ calibre-docker
 └── README.md ................... [本仓库说明文档]
 ```
 
->  个人电子书可以专门使用一个 Github 仓库存储，例如 [ebooks-library](https://github.com/lyy289065406/ebooks-library)，使用时将其拉到 [books](books/) 目录下即可
 
 ## 环境要求
 
