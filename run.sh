@@ -2,7 +2,7 @@
 # 运行 Calibre 服务
 #------------------------------------------------
 # 命令执行示例：
-# ./run.sh -u admin -p admin123 -u 1000 -g 1000
+# ./run.sh -u admin -p admin123 -i 1000 -g 1000
 #------------------------------------------------
 
 USERNAME="admin"
@@ -10,7 +10,7 @@ PASSWORD="admin123"
 UID=`id | awk -F '[(=]' '{print $2}'`
 GID=`id | awk -F '[(=]' '{print $4}'`
 
-set -- `getopt u:p:u:g: "$@"`
+set -- `getopt u:p:i:g: "$@"`
 while [ -n "$1" ]
 do
   case "$1" in
@@ -18,7 +18,7 @@ do
         shift ;;
     -p) PASSWORD="$2"
         shift ;;
-    -u) UID="$2"
+    -i) UID="$2"
         shift ;;
     -g) GID="$2"
         shift ;;
