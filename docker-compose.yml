@@ -21,7 +21,7 @@
   
   
     calibre_mgr:
-      image: linuxserver/calibre
+      image: linuxserver/calibre:version-v5.2.0
       hostname: CALIBRE_MGR
       container_name: docker_calibre_mgr
       environment:
@@ -45,7 +45,7 @@
   
   
     calibre_cms:
-      image: linuxserver/calibre-web
+      image: linuxserver/calibre-web:version-v5.6.0
       hostname: CALIBRE_CMS
       container_name: docker_calibre_cms
       environment:
