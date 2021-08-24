@@ -31,7 +31,7 @@
 | 镜像 | 用途 | 服务端口 | 端口说明 |
 |:------:|:------:|:------:|:------|
 | [calibre](https://github.com/kovidgoyal/calibre) | calibre 后端 | 8080 | calibre 管理页面 |
-| [calibre-web](https://github.com/janeczku/calibre-web) | calibre 前端 | 8083 | CMS 页面，同时提供 OPDS 服务 |
+| [calibre-web](https://github.com/janeczku/calibre-web) | calibre 前端 | 8081 | CMS 页面，同时提供 OPDS 服务 |
 | [nginx](https://www.nginx.com/) | 反向代理 calibre 服务 | 80 | 项目说明页面 |
 
 
