@@ -28,3 +28,4 @@ done
 
 PASS_MD5=`echo -n ${PASSWORD} | openssl md5 | awk '{print $2}'`
 username=${USERNAME} pass_md5=${PASS_MD5} uid=${U_ID} gid=${G_ID} docker-compose up -d
+
