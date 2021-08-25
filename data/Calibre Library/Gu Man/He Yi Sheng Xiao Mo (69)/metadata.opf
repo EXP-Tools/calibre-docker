@@ -8,8 +8,8 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:description>&lt;p&gt;何以笙箫默&lt;/p&gt;</dc:description>
-        <dc:publisher>ixdzs.com</dc:publisher>
         <dc:language>zho</dc:language>
+        <dc:subject>爱情</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;顾漫&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="网文"/>
         <meta name="calibre:series_index" content="1"/>

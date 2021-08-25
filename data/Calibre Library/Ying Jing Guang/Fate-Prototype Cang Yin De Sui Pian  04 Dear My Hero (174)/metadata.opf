@@ -3,19 +3,18 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">174</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">848aa7f0-3627-4866-a912-ecdabf7d4b28</dc:identifier>
-        <dc:title>Fate／Prototype 苍银的碎片 卷四 Dear My Hero</dc:title>
+        <dc:title>Fate-Prototype 苍银的碎片 04 Dear My Hero</dc:title>
         <dc:creator opf:file-as="樱井光" opf:role="aut">樱井光</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-04-21T00:00:00+00:00</dc:date>
-        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
         <dc:subject>轻小说</dc:subject>
         <dc:subject>Fate</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;樱井光&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Fate"/>
-        <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2020-10-18T02:15:47.385072+00:00"/>
-        <meta name="calibre:title_sort" content="Fate／Prototype 苍银的碎片 卷四 Dear My Hero"/>
+        <meta name="calibre:series_index" content="2.40"/>
+        <meta name="calibre:timestamp" content="2020-10-18T02:15:47+00:00"/>
+        <meta name="calibre:title_sort" content="Fate-Prototype 苍银的碎片 04 Dear My Hero"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

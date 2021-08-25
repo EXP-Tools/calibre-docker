@@ -4,14 +4,17 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">59</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">b8b7f3b5-3452-4548-aa69-0f4670def95e</dc:identifier>
         <dc:title>从你的全世界路过</dc:title>
-        <dc:creator opf:file-as="未知" opf:role="aut">张嘉佳</dc:creator>
+        <dc:creator opf:file-as="张嘉佳" opf:role="aut">张嘉佳</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2016-01-03T07:27:27+00:00</dc:date>
-        <dc:description>从你的全世界路过</dc:description>
-        <dc:publisher>ixdzs.com</dc:publisher>
+        <dc:date>2016-01-03T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;从你的全世界路过&lt;/p&gt;</dc:description>
         <dc:language>zho</dc:language>
+        <dc:subject>都市</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;张嘉佳&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-13T17:28:34.528972+00:00"/>
+        <meta name="calibre:series" content="从你的全世界路过"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-10-13T17:28:34+00:00"/>
         <meta name="calibre:title_sort" content="从你的全世界路过"/>
     </metadata>
     <guide>

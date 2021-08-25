@@ -3,20 +3,19 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">193</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">4865fb22-8407-49f2-978f-5728cc600e39</dc:identifier>
-        <dc:title>埃尔梅罗二世事件簿第四卷</dc:title>
+        <dc:title>Fate 埃尔梅罗二世事件簿 04 Case.魔眼搜集列车（上）</dc:title>
         <dc:creator opf:file-as="三田城" opf:role="aut">三田城</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-11-24T00:00:00+00:00</dc:date>
-        <dc:description>魔术与神秘、幻想与谜团交错纵横的Lord·埃尔梅罗二世事件簿</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:description>&lt;p&gt;魔术与神秘、幻想与谜团交错纵横的Lord&amp;middot;埃尔梅罗二世事件簿&lt;/p&gt;</dc:description>
         <dc:language>zho</dc:language>
         <dc:subject>轻小说</dc:subject>
         <dc:subject>Fate</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;三田城&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Fate"/>
-        <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2020-10-18T02:16:02.154058+00:00"/>
-        <meta name="calibre:title_sort" content="埃尔梅罗二世事件簿第四卷"/>
+        <meta name="calibre:series_index" content="6.30"/>
+        <meta name="calibre:timestamp" content="2020-10-18T02:16:02+00:00"/>
+        <meta name="calibre:title_sort" content="Fate 埃尔梅罗二世事件簿 04 Case.魔眼搜集列车（上）"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

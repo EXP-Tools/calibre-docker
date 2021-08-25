@@ -3,17 +3,18 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">127</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">2c863780-cc71-4a31-988c-57702a873fb8</dc:identifier>
-        <dc:title>加速世界 6 净火之神子</dc:title>
+        <dc:title>[加速世界] - 06 净火之神子</dc:title>
         <dc:creator opf:file-as="川原砾" opf:role="aut">川原砾</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-03-07T00:00:00+00:00</dc:date>
-        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
         <dc:subject>轻小说</dc:subject>
         <dc:subject>AccelWorld</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-14T12:59:50.499718+00:00"/>
-        <meta name="calibre:title_sort" content="加速世界 6 净火之神子"/>
+        <meta name="calibre:series" content="加速世界"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2020-10-14T12:59:50+00:00"/>
+        <meta name="calibre:title_sort" content="[加速世界] - 06 净火之神子"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

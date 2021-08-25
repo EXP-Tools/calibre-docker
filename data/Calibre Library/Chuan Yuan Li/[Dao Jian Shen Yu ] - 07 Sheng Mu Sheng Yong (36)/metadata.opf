@@ -3,23 +3,19 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">36</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">ff3ef658-7af1-4544-b317-27f08ebe8b83</dc:identifier>
-        <dc:title>Sword Art Online 7 Mother’s Rosario</dc:title>
+        <dc:title>[刀剑神域] - 07 圣母圣咏</dc:title>
         <dc:creator opf:file-as="川原砾" opf:role="aut">川原砾</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-05-04T00:00:00+00:00</dc:date>
-        <dc:description>桐人被卷入的《死枪》事件的几周后。
-在妖精国度、次世代飞行系VRMMO《AlfheimOnline》中，发生了奇妙的骚动。出现在新地图《浮游城艾恩格朗特》第24层主街区北部的谜之假想体，赌上自己持有的《原创剑技》，在1v1对战中持续全胜。
-连《黑之剑士》桐人都被打败了。亚丝娜向这位被称为《绝剑》的剑豪发起了挑战。结果，以毫厘之差败北了。
-但是，那场决斗的最后，《绝剑》突然邀请亚丝娜加入自己的公会？！
-剑法的神速足以被称为《绝剑》，那其中隐藏着某个秘密——‘Mather’s Rosario’篇，登场！</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:description>&lt;p&gt;桐人被卷入的《死枪》事件的几周后。 在妖精国度、次世代飞行系VRMMO《AlfheimOnline》中，发生了奇妙的骚动。出现在新地图《浮游城艾恩格朗特》第24层主街区北部的谜之假想体，赌上自己持有的《原创剑技》，在1v1对战中持续全胜。 连《黑之剑士》桐人都被打败了。亚丝娜向这位被称为《绝剑》的剑豪发起了挑战。结果，以毫厘之差败北了。 但是，那场决斗的最后，《绝剑》突然邀请亚丝娜加入自己的公会？！ 剑法的神速足以被称为《绝剑》，那其中隐藏着某个秘密&amp;mdash;&amp;mdash;&amp;lsquo;Mather&amp;rsquo;s Rosario&amp;rsquo;篇，登场！&lt;/p&gt;</dc:description>
         <dc:language>zho</dc:language>
         <dc:subject>轻小说</dc:subject>
+        <dc:subject>SAO</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="刀剑神域"/>
-        <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2020-10-13T13:19:36.829473+00:00"/>
-        <meta name="calibre:title_sort" content="Sword Art Online 7 Mother’s Rosario"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="2020-10-13T13:19:36+00:00"/>
+        <meta name="calibre:title_sort" content="[刀剑神域] - 07 圣母圣咏"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

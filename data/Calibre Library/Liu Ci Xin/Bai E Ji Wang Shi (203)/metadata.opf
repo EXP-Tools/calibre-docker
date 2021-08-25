@@ -8,11 +8,10 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:description>白垩纪往事</dc:description>
-        <dc:publisher>ixdzs.com</dc:publisher>
         <dc:language>zho</dc:language>
         <dc:subject>科幻</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;刘慈欣&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-18T11:43:47.478139+00:00"/>
+        <meta name="calibre:timestamp" content="2020-10-18T11:43:47+00:00"/>
         <meta name="calibre:title_sort" content="白垩纪往事"/>
     </metadata>
     <guide>

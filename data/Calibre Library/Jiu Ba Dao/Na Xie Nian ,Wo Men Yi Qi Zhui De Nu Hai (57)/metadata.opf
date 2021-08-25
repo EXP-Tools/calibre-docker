@@ -8,8 +8,8 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-03-13T00:00:00+00:00</dc:date>
         <dc:description>&lt;p&gt;九把刀作品&lt;/p&gt;</dc:description>
-        <dc:publisher>uread 1.35.862 简体版</dc:publisher>
         <dc:language>zho</dc:language>
+        <dc:subject>爱情</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;九把刀&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="那些年"/>
         <meta name="calibre:series_index" content="1"/>

@@ -3,16 +3,19 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">78</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">f9f4b9c2-4cec-421f-83bf-48695db188fb</dc:identifier>
-        <dc:title>一念永恒</dc:title>
+        <dc:title>[鬼之卷] - 04 一念永恒</dc:title>
         <dc:creator opf:file-as="耳根" opf:role="aut">耳根</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2020-03-04T03:06:02+00:00</dc:date>
-        <dc:description>一念永恒</dc:description>
-        <dc:publisher>ixdzs.com</dc:publisher>
+        <dc:date>2020-03-04T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;一念永恒&lt;/p&gt;</dc:description>
         <dc:language>zho</dc:language>
+        <dc:subject>修仙</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;耳根&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-14T04:47:10.788162+00:00"/>
-        <meta name="calibre:title_sort" content="一念永恒"/>
+        <meta name="calibre:series" content="耳根五部曲"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-10-14T04:47:10+00:00"/>
+        <meta name="calibre:title_sort" content="[鬼之卷] - 04 一念永恒"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

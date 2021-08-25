@@ -3,17 +3,17 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">273</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">59c62f9d-1aea-4384-ad81-a5f050b4f1c2</dc:identifier>
-        <dc:title>首无·作祟之物</dc:title>
+        <dc:title>首无・作祟之物</dc:title>
         <dc:creator opf:file-as="三津田信三" opf:role="aut">三津田信三</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-04-16T16:00:00+00:00</dc:date>
+        <dc:date>2012-04-16T00:00:00+00:00</dc:date>
         <dc:description>&lt;p class="description"&gt;“婚舍集会”是奥多摩的秘守家代代相传的仪式，刚满二十三岁的长男长寿郎，必须从三位新娘候选人中挑选出一位。然而仪式进行中，其中一位候选人却惨遭杀害，而且尸体的头部也不见踪影！凶手会是从现场消失的长寿郎吗？突如其来的恐怖命案，再牵扯上家族继承人之争，让混乱的情势更加延烧，而在这期间，又出现了第二个，第三个没有头的牺牲者……这一切，难道是古老传说中的恶灵淡首大人在作祟？还是长寿郎十年前掉入井中死亡的双胞胎妹妹强烈的怨念所致呢？&lt;/p&gt;</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:identifier opf:scheme="ASIN">4ebb7010-da3e-4b24-98e0-8b3bf0a7d912</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>推理</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;三津田信三&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2021-08-25T00:34:54.019483+00:00"/>
-        <meta name="calibre:title_sort" content="首无·作祟之物"/>
+        <meta name="calibre:timestamp" content="2021-08-25T00:34:54+00:00"/>
+        <meta name="calibre:title_sort" content="首无・作祟之物"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

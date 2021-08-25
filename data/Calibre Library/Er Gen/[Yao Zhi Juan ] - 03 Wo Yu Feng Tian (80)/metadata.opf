@@ -3,16 +3,19 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">80</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">c3b0a3e7-211e-42fb-98be-a6dd4b4f31b0</dc:identifier>
-        <dc:title>我欲封天</dc:title>
+        <dc:title>[妖之卷] - 03 我欲封天</dc:title>
         <dc:creator opf:file-as="耳根" opf:role="aut">耳根</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2016-02-11T13:42:24+00:00</dc:date>
-        <dc:description>我欲封天</dc:description>
-        <dc:publisher>ixdzs.com</dc:publisher>
+        <dc:date>2016-02-11T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;我欲封天&lt;/p&gt;</dc:description>
         <dc:language>zho</dc:language>
+        <dc:subject>修仙</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;耳根&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-14T04:47:12.471210+00:00"/>
-        <meta name="calibre:title_sort" content="我欲封天"/>
+        <meta name="calibre:series" content="耳根五部曲"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-10-14T04:47:12+00:00"/>
+        <meta name="calibre:title_sort" content="[妖之卷] - 03 我欲封天"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

@@ -3,19 +3,18 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">183</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">251b5a4b-1ef5-46c7-85f7-ae258f45fe70</dc:identifier>
-        <dc:title>Fate／Apocrypha VOL.5 邪龙与圣女</dc:title>
+        <dc:title>Fate-Apocrypha 05 邪龙与圣女</dc:title>
         <dc:creator opf:file-as="东出佑一郎" opf:role="aut">东出佑一郎</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-03-19T00:00:00+00:00</dc:date>
-        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
         <dc:subject>轻小说</dc:subject>
         <dc:subject>Fate</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;东出佑一郎&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Fate"/>
-        <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2020-10-18T02:15:58.534011+00:00"/>
-        <meta name="calibre:title_sort" content="Fate／Apocrypha VOL.5 邪龙与圣女"/>
+        <meta name="calibre:series_index" content="4.50"/>
+        <meta name="calibre:timestamp" content="2020-10-18T02:15:58+00:00"/>
+        <meta name="calibre:title_sort" content="Fate-Apocrypha 05 邪龙与圣女"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

@@ -3,17 +3,17 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">149</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">4d610abd-cb54-4fdf-a870-b81abe17c262</dc:identifier>
-        <dc:title>谷歌吴军：数学之美</dc:title>
+        <dc:title>[谷歌黑板报] 数学之美</dc:title>
         <dc:creator opf:file-as="吴军" opf:role="aut">吴军</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2009-08-20T16:00:00+00:00</dc:date>
+        <dc:date>2009-08-20T00:00:00+00:00</dc:date>
         <dc:description>&lt;p class="description"&gt;也许大家不相信，数学是解决信息检索和自然语言处理的最好工具。它能非常清晰地描述这些领域的实际问题并且给出漂亮的解决办法。每当人们应用数学工具解决一个语言问题时，总会感叹数学之美。我们希望利用 Google 中文黑板报这块园地，介绍一些数学工具，以及我们是如何利用这些工具来开发 Google 产品的。&lt;/p&gt;</dc:description>
-        <dc:publisher>googlechinablog.com</dc:publisher>
         <dc:identifier opf:scheme="ASIN">6ebbf9c8-915c-485b-b285-514d56bea511</dc:identifier>
         <dc:language>zho</dc:language>
+        <dc:subject>学术</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;吴军&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-14T18:14:46.993286+00:00"/>
-        <meta name="calibre:title_sort" content="谷歌吴军：数学之美"/>
+        <meta name="calibre:timestamp" content="2020-10-14T18:14:46+00:00"/>
+        <meta name="calibre:title_sort" content="[谷歌黑板报] 数学之美"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

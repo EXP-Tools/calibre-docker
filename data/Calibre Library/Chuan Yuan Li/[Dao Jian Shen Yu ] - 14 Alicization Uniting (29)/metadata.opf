@@ -3,18 +3,18 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">29</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">7c5d702f-58d8-4c94-923e-530d2146130e</dc:identifier>
-        <dc:title>Sword Art Online 14 Alicization Uniting</dc:title>
+        <dc:title>[刀剑神域] - 14 Alicization Uniting</dc:title>
         <dc:creator opf:file-as="川原砾" opf:role="aut">川原砾</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-05-07T00:00:00+00:00</dc:date>
-        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
         <dc:subject>轻小说</dc:subject>
+        <dc:subject>SAO</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="刀剑神域"/>
-        <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2020-10-13T13:19:34.967401+00:00"/>
-        <meta name="calibre:title_sort" content="Sword Art Online 14 Alicization Uniting"/>
+        <meta name="calibre:series_index" content="14"/>
+        <meta name="calibre:timestamp" content="2020-10-13T13:19:34+00:00"/>
+        <meta name="calibre:title_sort" content="[刀剑神域] - 14 Alicization Uniting"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

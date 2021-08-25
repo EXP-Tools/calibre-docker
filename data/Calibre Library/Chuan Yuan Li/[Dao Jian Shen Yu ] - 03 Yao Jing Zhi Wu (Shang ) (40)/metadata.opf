@@ -3,27 +3,19 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">40</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">70563931-23c1-4900-abaf-63d2d0f190fb</dc:identifier>
-        <dc:title>Sword Art Online刀剑神域[第三卷]</dc:title>
-        <dc:creator opf:file-as="未知" opf:role="aut">川原砾</dc:creator>
+        <dc:title>[刀剑神域] - 03 妖精之舞（上）</dc:title>
+        <dc:creator opf:file-as="川原砾" opf:role="aut">川原砾</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-10-31T00:00:00+00:00</dc:date>
-        <dc:description>＜内容简介＞
-
-桐人从禁忌的死亡战斗MMO「Sword Art Online 刀剑神域」裡回到现实世界后，
-马上就前去寻找游戏时的伙伴，同时也是心仪对象的亚丝娜。
-但是结城明日奈(亚丝娜)却还没从那个恶梦般的游戏裡归还。
-桐人也因此而陷入困惑与绝望当中。他唯一的线索是亚丝娜以「妖精」模样伫立在鸟笼裡的奇异影像档。
-看来亚斯娜似乎是被困在一款高性能的VRMMO游戏「ALfheim??Online」裡面了。
-桐人为了解救亚丝娜，一头闯入这个有着无数妖精飞翔交错的「ALO」世界……!!
-在网路上获得超人气的「妖精之舞」篇，正式展开!!</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
-        <dc:language>zh</dc:language>
+        <dc:description>&lt;p&gt;＜内容简介＞ 桐人从禁忌的死亡战斗MMO「Sword Art Online 刀剑神域」裡回到现实世界后， 马上就前去寻找游戏时的伙伴，同时也是心仪对象的亚丝娜。 但是结城明日奈(亚丝娜)却还没从那个恶梦般的游戏裡归还。 桐人也因此而陷入困惑与绝望当中。他唯一的线索是亚丝娜以「妖精」模样伫立在鸟笼裡的奇异影像档。 看来亚斯娜似乎是被困在一款高性能的VRMMO游戏「ALfheim??Online」裡面了。 桐人为了解救亚丝娜，一头闯入这个有着无数妖精飞翔交错的「ALO」世界&amp;hellip;&amp;hellip;!! 在网路上获得超人气的「妖精之舞」篇，正式展开!!&lt;/p&gt;</dc:description>
+        <dc:language>zho</dc:language>
         <dc:subject>轻小说</dc:subject>
+        <dc:subject>SAO</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="刀剑神域"/>
-        <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2020-10-13T13:19:37.767681+00:00"/>
-        <meta name="calibre:title_sort" content="Sword Art Online刀剑神域[第三卷]"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2020-10-13T13:19:37+00:00"/>
+        <meta name="calibre:title_sort" content="[刀剑神域] - 03 妖精之舞（上）"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

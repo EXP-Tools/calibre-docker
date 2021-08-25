@@ -3,16 +3,18 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">235</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">36893859-8590-4c56-9f90-1ce6af0b607b</dc:identifier>
-        <dc:title>坏蛋是怎样炼成的II</dc:title>
+        <dc:title>坏蛋是怎样炼成的 02</dc:title>
         <dc:creator opf:file-as="六道" opf:role="aut">六道</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2016-01-04T08:04:55+00:00</dc:date>
-        <dc:description>坏蛋是怎样炼成的II</dc:description>
-        <dc:publisher>ixdzs.com</dc:publisher>
+        <dc:date>2016-01-04T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;坏蛋是怎样炼成的II&lt;/p&gt;</dc:description>
         <dc:language>zho</dc:language>
+        <dc:subject>都市</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;六道&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-18T17:19:34.862994+00:00"/>
-        <meta name="calibre:title_sort" content="坏蛋是怎样炼成的II"/>
+        <meta name="calibre:series" content="坏蛋是怎样炼成的"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2020-10-18T17:19:34+00:00"/>
+        <meta name="calibre:title_sort" content="坏蛋是怎样炼成的 02"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

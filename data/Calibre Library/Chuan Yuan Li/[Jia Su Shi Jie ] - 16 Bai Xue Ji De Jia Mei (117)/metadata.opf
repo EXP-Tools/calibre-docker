@@ -3,24 +3,19 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">117</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">ff16bd57-f9a7-4908-8c4d-f0d76e1b6f58</dc:identifier>
-        <dc:title>加速世界16-白雪姬的假寐</dc:title>
+        <dc:title>[加速世界] - 16 白雪姬的假寐</dc:title>
         <dc:creator opf:file-as="川原砾" opf:role="aut">川原砾</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-03-02T00:00:00+00:00</dc:date>
-        <dc:description>遵守着一定要救出仁子这个承诺的春雪在大天使梅塔特隆的加护之下，与拓武、小千和Blood Leopard同时向着加速研究会的根据地前进，克服重重障碍后与Vise和Argon Array展开对峙。
-
-两大阵营终于相遇展开激战……就在这一瞬间，神秘的红色光线突然从空中射来，灾祸之铠MKⅡ即将诞生。
-
-春雪等人被拥有极为可怕的力量的《铠》逼入了绝境。然而这时，和梅塔特隆完全同步的春雪，被引导进入了一个时间静止的世界。
-
-在这个可以感觉到一切的世界内，梅塔特隆开始向他讲述Brain Burst被制作出来的理由，以及Burst Linker存在的意义——</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:description>&lt;p&gt;遵守着一定要救出仁子这个承诺的春雪在大天使梅塔特隆的加护之下，与拓武、小千和Blood Leopard同时向着加速研究会的根据地前进，克服重重障碍后与Vise和Argon Array展开对峙。 两大阵营终于相遇展开激战&amp;hellip;&amp;hellip;就在这一瞬间，神秘的红色光线突然从空中射来，灾祸之铠MKⅡ即将诞生。 春雪等人被拥有极为可怕的力量的《铠》逼入了绝境。然而这时，和梅塔特隆完全同步的春雪，被引导进入了一个时间静止的世界。 在这个可以感觉到一切的世界内，梅塔特隆开始向他讲述Brain Burst被制作出来的理由，以及Burst Linker存在的意义&amp;mdash;&amp;mdash;&lt;/p&gt;</dc:description>
         <dc:language>zho</dc:language>
         <dc:subject>轻小说</dc:subject>
         <dc:subject>AccelWorld</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-14T12:59:45.948492+00:00"/>
-        <meta name="calibre:title_sort" content="加速世界16-白雪姬的假寐"/>
+        <meta name="calibre:series" content="加速世界"/>
+        <meta name="calibre:series_index" content="16"/>
+        <meta name="calibre:timestamp" content="2020-10-14T12:59:45+00:00"/>
+        <meta name="calibre:title_sort" content="[加速世界] - 16 白雪姬的假寐"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>
