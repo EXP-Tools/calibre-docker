@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">279</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f79d06a-7782-4ff6-8eb5-68731f10d4e1</dc:identifier>
+        <dc:title>玻璃之锤</dc:title>
+        <dc:creator opf:file-as="[日]贵志佑介" opf:role="aut">[日]贵志佑介</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;★58届日本推理作家协会长篇佳作奖&lt;br&gt;★日本超人气明星大野智&amp;amp;户田惠梨香联袂主演日剧《上锁的房间》精彩压轴之作原著&lt;br&gt;★绝对完美的密室，谋杀究竟如何发生！无数推迷翘首期待！&lt;br&gt;贵志佑介现在是日本超红人气小说家，作品不断被改编为电影，剧作，漫画等多种其他形式作品，不可甚数。其中 最著名的电视剧是根据贵志佑介原作《玻璃之锤》《鬼火之家》《上锁的房间》改编的日剧《上锁的房间》&lt;br&gt;http://movie.douban.com/subject/10521668/ ，2012年在富士电视台播出，由日本超人气组合岚（Arashi）的队长兼主唱大野智主演，以超高收视率位居各大排行榜首位。平均收视达16%以上，并得到去年多个电视剧大奖，包括美国的奖项，在日本国内外都有很高评价。&lt;br&gt;《上锁的房间SP》将于2014年1月3日在日本上映，主角榎本依然由大野智主演。http://movie.douban.com/subject/25727519/ 【编辑推荐】&lt;br&gt;——密室作品是非常喜欢的吧？&lt;br&gt;贵志佑介：喜欢呀，密室是不可能的犯罪，彻底设置这样不可能的犯罪，打破那些不在场证明，这个在结构上困难而且复杂，进入密室不可能，出去也同样不可能。&lt;br&gt;不可能的犯罪，怎样成为可能！&lt;br&gt;本格推理全新高潮，绝对完美的密室，&lt;br&gt;谋杀究竟如何发生！&lt;br&gt;穷尽所有可能的推理想象，挑战你的思维极限，是什么导致了谋杀的发生？谁是凶手？高层倾轧？商业竞争？人性的贪欲？超完美的密室，超复杂的人心！&lt;br&gt;亲爱的读者们，我们会给出最详细的线索和证据，请不断的发挥你的想象力吧！我们不惧怕任何挑战，因为这是最完美的密室！&lt;br&gt;——天蝎小猪（书评人，推理文学推介人）&lt;br&gt;精巧的多重解答，简单大胆的盲点真相。贵志佑介用这本 书告诉我们：密室并不是欧美推理黄金时代的专属物，它完全可以与时俱进。&lt;br&gt;——翱云（豆瓣资深推迷）&lt;br&gt;贵志佑介有着非常扎实的密室推理思路，罗列出所有的可能性再逐一排除，剩下的真相让人尤为叹服。&lt;br&gt;——欧阳杼（豆瓣资深推迷）&lt;br&gt;举报&lt;/p&gt;</dc:description>
+        <dc:publisher>重庆出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787229070656</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>推理</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;[日]贵志佑介&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-08-25T00:34:57+00:00"/>
+        <meta name="calibre:title_sort" content="玻璃之锤"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

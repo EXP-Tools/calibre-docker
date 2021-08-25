@@ -125,11 +125,15 @@
   },
   "grid view visible": false,
   "library_usage_stats": {
-    "/config/Calibre Library": 9
+    "/config/Calibre Library": 10
   },
   "metasingle_window_geometry3": {
     "__class__": "bytearray",
     "__value__": "AdnQywADAAAAAAEDAAAAWAAABTwAAANcAAABBAAAAGwAAAU7AAADVwAAAAAAAAAABpAAAAEEAAAAbAAABTsAAANX"
+  },
+  "previous_sort_order_BooksView": {
+    "timestamp": false,
+    "title": true
   },
   "questions_to_auto_skip": [
     "tag_item_delete"

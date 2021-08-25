@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">286</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28fff7f5-36ec-4074-bead-2bc5a0347098</dc:identifier>
+        <dc:title>全部成为F</dc:title>
+        <dc:creator opf:file-as="（日）森博嗣" opf:role="aut">（日）森博嗣</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;拥有多重性格的天才少女真贺田四季，十四岁时杀死了自己的双亲，此后就一直被禁闭在孤岛的研究所内。十五年后，慕名而来的犀川和萌绘却在密室里发现了被截四肢的四季尸体。所长及副所长相继被人杀死。凶手究竟是谁呢？而真贺田博士在计算机里留下的最后遗言“全部成为F”，又隐藏着怎样的讯息？……&lt;/p&gt;</dc:description>
+        <dc:publisher>北岳文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787537828413</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">e36834bf-70d1-4e39-bd5e-d124c36f299b</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>推理</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;（日）森博嗣&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-08-25T00:34:59+00:00"/>
+        <meta name="calibre:title_sort" content="全部成为F"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

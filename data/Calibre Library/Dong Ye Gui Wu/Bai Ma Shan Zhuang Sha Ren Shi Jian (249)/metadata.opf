@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">249</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e561f474-e5d9-43d3-81cc-5c88ab38f4a3</dc:identifier>
+        <dc:title>白马山庄杀人事件-东野圭吾</dc:title>
+        <dc:creator opf:file-as="制作者：.半温柔" opf:role="aut">制作者：.半温柔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-04T16:00:00+00:00</dc:date>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:identifier opf:scheme="ASIN">ea36bfbe-f2d1-4b75-9e9e-2e1050ae64f8</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;制作者：.半温柔&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-08-25T00:30:22.237114+00:00"/>
+        <meta name="calibre:title_sort" content="白马山庄杀人事件-东野圭吾"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
