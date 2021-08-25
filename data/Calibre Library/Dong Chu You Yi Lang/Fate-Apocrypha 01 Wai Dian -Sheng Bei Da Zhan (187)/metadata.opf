@@ -3,19 +3,18 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">187</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">512f6b60-98db-4053-86ea-a48df91093f9</dc:identifier>
-        <dc:title>FateApocrypha第一卷</dc:title>
+        <dc:title>Fate-Apocrypha 01 外典-圣杯大战</dc:title>
         <dc:creator opf:file-as="东出佑一郎" opf:role="aut">东出佑一郎</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-12-31T00:00:00+00:00</dc:date>
-        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
         <dc:subject>轻小说</dc:subject>
         <dc:subject>Fate</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;东出佑一郎&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Fate"/>
-        <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2020-10-18T02:15:59.707839+00:00"/>
-        <meta name="calibre:title_sort" content="FateApocrypha第一卷"/>
+        <meta name="calibre:series_index" content="4.10"/>
+        <meta name="calibre:timestamp" content="2020-10-18T02:15:59+00:00"/>
+        <meta name="calibre:title_sort" content="Fate-Apocrypha 01 外典-圣杯大战"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

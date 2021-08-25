@@ -6,12 +6,12 @@
         <dc:title>紫川</dc:title>
         <dc:creator opf:file-as="老猪" opf:role="aut">老猪</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2017-12-24T21:51:49+00:00</dc:date>
-        <dc:description>紫川</dc:description>
-        <dc:publisher>ixdzs.com</dc:publisher>
+        <dc:date>2017-12-24T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;紫川&lt;/p&gt;</dc:description>
         <dc:language>zho</dc:language>
+        <dc:subject>玄幻</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;老猪&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-18T17:19:56.359693+00:00"/>
+        <meta name="calibre:timestamp" content="2020-10-18T17:19:56+00:00"/>
         <meta name="calibre:title_sort" content="紫川"/>
     </metadata>
     <guide>

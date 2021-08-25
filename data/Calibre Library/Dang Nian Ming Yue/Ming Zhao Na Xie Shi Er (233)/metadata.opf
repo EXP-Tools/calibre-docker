@@ -6,12 +6,12 @@
         <dc:title>明朝那些事儿</dc:title>
         <dc:creator opf:file-as="当年明月" opf:role="aut">当年明月</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2016-01-04T09:14:16+00:00</dc:date>
-        <dc:description>明朝那些事儿</dc:description>
-        <dc:publisher>ixdzs.com</dc:publisher>
+        <dc:date>2016-01-04T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;明朝那些事儿&lt;/p&gt;</dc:description>
         <dc:language>zho</dc:language>
+        <dc:subject>架空历史</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;当年明月&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-18T17:19:10.283325+00:00"/>
+        <meta name="calibre:timestamp" content="2020-10-18T17:19:10+00:00"/>
         <meta name="calibre:title_sort" content="明朝那些事儿"/>
     </metadata>
     <guide>

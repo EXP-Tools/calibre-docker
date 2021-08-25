@@ -3,21 +3,19 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">118</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">575ebf0c-7179-4380-b81f-5fe283849f72</dc:identifier>
-        <dc:title>加速世界15 终结与开始</dc:title>
+        <dc:title>[加速世界] - 15 终结与开始</dc:title>
         <dc:creator opf:file-as="川原砾" opf:role="aut">川原砾</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-10-27T00:00:00+00:00</dc:date>
-        <dc:description>击破了神兽(Legend)级公敌《大天使梅塔特隆》的春雪。正当他以为距离破坏污染了这个世界的《ISS套件》本体仅一步之遥……的那个时候，加速研究会成员，Black.Vise和Argon.Array现身，劫走了红之王Scarlet.Rain。
-    立下了要守护仁子的约定的春雪，在被解开了束缚的大天使梅塔特隆的加护之下，向Black.Vise穷追不舍。
-另一方面，黑雪姬为了在现实世界切断仁子的连接，和枫子、谣、晶一同，前往中城塔的传送门，然而……。
-    为你送上《最强的文学》，次时代青春作品！</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:description>&lt;p&gt;击破了神兽(Legend)级公敌《大天使梅塔特隆》的春雪。正当他以为距离破坏污染了这个世界的《ISS套件》本体仅一步之遥&amp;hellip;&amp;hellip;的那个时候，加速研究会成员，Black.Vise和Argon.Array现身，劫走了红之王Scarlet.Rain。 立下了要守护仁子的约定的春雪，在被解开了束缚的大天使梅塔特隆的加护之下，向Black.Vise穷追不舍。 另一方面，黑雪姬为了在现实世界切断仁子的连接，和枫子、谣、晶一同，前往中城塔的传送门，然而&amp;hellip;&amp;hellip;。 为你送上《最强的文学》，次时代青春作品！&lt;/p&gt;</dc:description>
         <dc:language>zho</dc:language>
         <dc:subject>轻小说</dc:subject>
         <dc:subject>AccelWorld</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-14T12:59:46.319168+00:00"/>
-        <meta name="calibre:title_sort" content="加速世界15 终结与开始"/>
+        <meta name="calibre:series" content="加速世界"/>
+        <meta name="calibre:series_index" content="15"/>
+        <meta name="calibre:timestamp" content="2020-10-14T12:59:46+00:00"/>
+        <meta name="calibre:title_sort" content="[加速世界] - 15 终结与开始"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

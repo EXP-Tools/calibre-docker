@@ -3,16 +3,18 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">8c4b0801-a1b5-46fc-8a47-cece181bdece</dc:identifier>
-        <dc:title>三体3《死神永生》</dc:title>
-        <dc:creator opf:file-as="未知" opf:role="aut">刘慈欣</dc:creator>
+        <dc:title>[三体] - 03 死神永生</dc:title>
+        <dc:creator opf:file-as="刘慈欣" opf:role="aut">刘慈欣</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-01-25T00:00:00+00:00</dc:date>
-        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
         <dc:subject>科幻</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;刘慈欣&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-13T17:34:26.608783+00:00"/>
-        <meta name="calibre:title_sort" content="三体3《死神永生》"/>
+        <meta name="calibre:series" content="三体"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2020-10-13T17:34:26+00:00"/>
+        <meta name="calibre:title_sort" content="[三体] - 03 死神永生"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

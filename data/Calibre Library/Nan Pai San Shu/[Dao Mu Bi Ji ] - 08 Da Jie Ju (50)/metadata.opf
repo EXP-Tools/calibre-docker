@@ -3,15 +3,17 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">50</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">9f928bb3-597c-4778-8574-195b8052a94b</dc:identifier>
-        <dc:title>盗墓笔记8</dc:title>
-        <dc:creator opf:file-as="未知" opf:role="aut">南派三叔</dc:creator>
+        <dc:title>[盗墓笔记] - 08 大结局</dc:title>
+        <dc:creator opf:file-as="南派三叔" opf:role="aut">南派三叔</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-03-20T00:00:00+00:00</dc:date>
-        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
+        <dc:subject>悬疑</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;南派三叔&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-13T17:03:50.849068+00:00"/>
-        <meta name="calibre:title_sort" content="盗墓笔记8"/>
+        <meta name="calibre:series" content="盗墓笔记"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:timestamp" content="2020-10-13T17:03:50+00:00"/>
+        <meta name="calibre:title_sort" content="[盗墓笔记] - 08 大结局"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

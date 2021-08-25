@@ -3,17 +3,18 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">130</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">93db526b-21e0-46a8-8721-345259ca5e8d</dc:identifier>
-        <dc:title>加速世界 3 暮色掠夺者</dc:title>
+        <dc:title>[加速世界] - 03 暮色掠夺者</dc:title>
         <dc:creator opf:file-as="川原砾" opf:role="aut">川原砾</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-03-07T00:00:00+00:00</dc:date>
-        <dc:publisher>epub掌上书苑</dc:publisher>
         <dc:language>zho</dc:language>
         <dc:subject>轻小说</dc:subject>
         <dc:subject>AccelWorld</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-14T12:59:52.158320+00:00"/>
-        <meta name="calibre:title_sort" content="加速世界 3 暮色掠夺者"/>
+        <meta name="calibre:series" content="加速世界"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2020-10-14T12:59:52+00:00"/>
+        <meta name="calibre:title_sort" content="[加速世界] - 03 暮色掠夺者"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

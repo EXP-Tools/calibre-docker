@@ -4,13 +4,13 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">272</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">f75ee17a-84de-4a98-8009-90e9df33015d</dc:identifier>
         <dc:title>古墓之谜</dc:title>
-        <dc:creator opf:file-as="阿加莎.克里斯蒂" opf:role="aut">阿加莎.克里斯蒂</dc:creator>
+        <dc:creator opf:file-as="阿加莎・克里斯蒂" opf:role="aut">阿加莎・克里斯蒂</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2010-06-28T16:00:00+00:00</dc:date>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:date>2010-06-28T00:00:00+00:00</dc:date>
         <dc:identifier opf:scheme="MOBI-ASIN">b3320f74-bd96-4639-89c9-4f48b1fc45b5</dc:identifier>
         <dc:language>zho</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;阿加莎.克里斯蒂&quot;: &quot;&quot;}"/>
+        <dc:subject>推理</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;阿加莎・克里斯蒂&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2021-08-25T00:34:29+00:00"/>
         <meta name="calibre:title_sort" content="古墓之谜"/>
     </metadata>

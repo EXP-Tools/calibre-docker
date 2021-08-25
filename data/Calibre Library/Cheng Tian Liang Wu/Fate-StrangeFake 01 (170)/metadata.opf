@@ -3,20 +3,19 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">170</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">5efb7a52-da33-4f51-8582-610defa8dd30</dc:identifier>
-        <dc:title>fate/strange fake 一卷</dc:title>
+        <dc:title>Fate-StrangeFake 01</dc:title>
         <dc:creator opf:file-as="成田良悟" opf:role="aut">成田良悟</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-08-21T00:00:00+00:00</dc:date>
-        <dc:description>《Fate/strange fake》是由成田良悟执笔，森井しづき负责插画的，奈须蘑菇笔下的型月世界为背景舞台的小说作品。原本是在2008年愚人节以《Fate/states night》为标题所发表的游戏企划，后来在TYPE-MOON的杂志《TYPE-MOON Ace Vol.2》的附录中刊载了当中的序章小说。于2015年1月文库化、漫画化。</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:description>&lt;p&gt;《Fate/strange fake》是由成田良悟执笔，森井しづき负责插画的，奈须蘑菇笔下的型月世界为背景舞台的小说作品。原本是在2008年愚人节以《Fate/states night》为标题所发表的游戏企划，后来在TYPE-MOON的杂志《TYPE-MOON Ace Vol.2》的附录中刊载了当中的序章小说。于2015年1月文库化、漫画化。&lt;/p&gt;</dc:description>
         <dc:language>zho</dc:language>
         <dc:subject>轻小说</dc:subject>
         <dc:subject>Fate</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;成田良悟&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Fate"/>
-        <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2020-10-18T02:15:40.720265+00:00"/>
-        <meta name="calibre:title_sort" content="fate/strange fake 一卷"/>
+        <meta name="calibre:series_index" content="5.10"/>
+        <meta name="calibre:timestamp" content="2020-10-18T02:15:40+00:00"/>
+        <meta name="calibre:title_sort" content="Fate-StrangeFake 01"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

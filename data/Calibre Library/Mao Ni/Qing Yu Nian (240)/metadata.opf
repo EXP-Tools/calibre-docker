@@ -3,23 +3,15 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">240</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">c2e934c5-95db-48bb-8d17-2f18559dc5d2</dc:identifier>
-        <dc:title>庆余年(精校版）</dc:title>
+        <dc:title>庆余年</dc:title>
         <dc:creator opf:file-as="猫腻" opf:role="aut">猫腻</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-12-29T00:00:00+00:00</dc:date>
-        <dc:description>积善之家，必有余庆，留余庆，留余庆，忽遇恩人；幸娘亲，幸娘亲，积得阴功。劝人生，济困扶穷……而谁可知，人生于世，上承余庆，终究却是要自己做出道路抉择，正是所谓岔枝发：
-　　东风携云雨，幼藤吐新芽。
-　　急催如颦鼓，洗尽茸与华。
-　　且待朝阳至，绿遍庭中架。
-　　更盼黄叶时，采得数枚瓜。
-　　……
-　　……
-　　当今世界，千穿万穿，唯有马屁不穿。所以这是一个穿越的故事，因为故事发生在庆国，而那位病人很奢侈地拥有了多出来的一截生命，所以取名为：庆余年－－很有乡土气息的名字。</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:description>&lt;p&gt;积善之家，必有余庆，留余庆，留余庆，忽遇恩人；幸娘亲，幸娘亲，积得阴功。劝人生，济困扶穷&amp;hellip;&amp;hellip;而谁可知，人生于世，上承余庆，终究却是要自己做出道路抉择，正是所谓岔枝发： 　　东风携云雨，幼藤吐新芽。 　　急催如颦鼓，洗尽茸与华。 　　且待朝阳至，绿遍庭中架。 　　更盼黄叶时，采得数枚瓜。 　　&amp;hellip;&amp;hellip; 　　&amp;hellip;&amp;hellip; 　　当今世界，千穿万穿，唯有马屁不穿。所以这是一个穿越的故事，因为故事发生在庆国，而那位病人很奢侈地拥有了多出来的一截生命，所以取名为：庆余年－－很有乡土气息的名字。&lt;/p&gt;</dc:description>
         <dc:language>zho</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;猫腻&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-18T17:47:43.733029+00:00"/>
-        <meta name="calibre:title_sort" content="庆余年(精校版）"/>
+        <meta name="calibre:timestamp" content="2020-10-18T17:47:43+00:00"/>
+        <meta name="calibre:title_sort" content="庆余年"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

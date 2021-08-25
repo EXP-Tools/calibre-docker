@@ -3,18 +3,19 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">44</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">8349667f-78f5-4b88-a7c5-61a640a38262</dc:identifier>
-        <dc:title>英雄志</dc:title>
-        <dc:creator opf:file-as="未知" opf:role="aut">孙晓</dc:creator>
+        <dc:title>[英雄志] 01-22卷</dc:title>
+        <dc:creator opf:file-as="孙晓" opf:role="aut">孙晓</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-07-16T00:00:00+00:00</dc:date>
-        <dc:description>亡命天涯的捕快、落魄潦倒的书生，豪迈不羁的将军与心机深沉的贵公子，四个人在黑暗时代中，交错复杂的感人故事。命运相连，爱情故事动人，武打与剧情再再超出预料，被公认具有《清明上河图》风貌的武侠小说……
-金庸封笔古龙逝，江湖唯有《英雄志》！</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:description>&lt;p&gt;亡命天涯的捕快、落魄潦倒的书生，豪迈不羁的将军与心机深沉的贵公子，四个人在黑暗时代中，交错复杂的感人故事。命运相连，爱情故事动人，武打与剧情再再超出预料，被公认具有《清明上河图》风貌的武侠小说&amp;hellip;&amp;hellip; 金庸封笔古龙逝，江湖唯有《英雄志》！&lt;/p&gt;</dc:description>
         <dc:language>zho</dc:language>
         <dc:subject>武侠</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;孙晓&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-13T16:34:42.564113+00:00"/>
-        <meta name="calibre:title_sort" content="英雄志"/>
+        <meta name="calibre:series" content="英雄志"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2020-10-13T16:34:42+00:00"/>
+        <meta name="calibre:title_sort" content="[英雄志] 01-22卷"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

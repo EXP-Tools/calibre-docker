@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">670b37bc-5089-43ea-96f3-466a27c7fa17</dc:identifier>
-        <dc:title>[刀剑神域] - 13 Alicization Dividing</dc:title>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec2dacd6-1566-461d-b1ce-77e3291fd895</dc:identifier>
+        <dc:title>[刀剑神域] - Ex03 黑与白的协奏曲 第三层事件</dc:title>
         <dc:creator opf:file-as="川原砾" opf:role="aut">川原砾</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2013-08-23T00:00:00+00:00</dc:date>
+        <dc:date>2012-03-28T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;此篇是刊载在川原自行出版的同人本ME09上的，只有一章（两节）。&lt;/p&gt;</dc:description>
         <dc:language>zho</dc:language>
         <dc:subject>轻小说</dc:subject>
         <dc:subject>SAO</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="刀剑神域"/>
-        <meta name="calibre:series_index" content="13"/>
-        <meta name="calibre:timestamp" content="2020-10-13T13:19:35+00:00"/>
-        <meta name="calibre:title_sort" content="[刀剑神域] - 13 Alicization Dividing"/>
+        <meta name="calibre:series_index" content="1.30"/>
+        <meta name="calibre:timestamp" content="2020-10-13T13:19:31+00:00"/>
+        <meta name="calibre:title_sort" content="[刀剑神域] - Ex03 黑与白的协奏曲 第三层事件"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

@@ -3,23 +3,19 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">38</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">8d8a25eb-beab-4e42-9303-3705e9392ec2</dc:identifier>
-        <dc:title>Sword Art Online刀剑神域[第五卷]</dc:title>
-        <dc:creator opf:file-as="未知" opf:role="aut">川原砾</dc:creator>
+        <dc:title>[刀剑神域] - 05 幽灵子弹（上）</dc:title>
+        <dc:creator opf:file-as="川原砾" opf:role="aut">川原砾</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-12-01T00:00:00+00:00</dc:date>
-        <dc:description>《SAO》事件之后时间已经过去了一年。
-某天，桐人从总务省《虚拟课》的菊岡誠二郎那里接到了奇妙的委托。
-在枪与钢铁的VRMMO《Gun Gale Online》中突然发生了的《死枪》事件。被手持漆黑之枪的谜之角色枪击的玩家，在现实世界中也会迎来死亡……。勉强同意了对该恐怖事件进行调查的桐人，对于《虚拟世界》是否能对《现实世界》带来物理性的影响，怀着这样的疑问，登录了《GGO》。
-为了找到《死枪》的线索，桐人在不习惯的游戏中彷徨着。向如此的他伸出援助之手的，是酷爱使用超长狙击步枪《Hecate II》的狙击手少女诗浓。
-新章节突入！</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:description>&lt;p&gt;《SAO》事件之后时间已经过去了一年。 某天，桐人从总务省《虚拟课》的菊岡誠二郎那里接到了奇妙的委托。 在枪与钢铁的VRMMO《Gun Gale Online》中突然发生了的《死枪》事件。被手持漆黑之枪的谜之角色枪击的玩家，在现实世界中也会迎来死亡&amp;hellip;&amp;hellip;。勉强同意了对该恐怖事件进行调查的桐人，对于《虚拟世界》是否能对《现实世界》带来物理性的影响，怀着这样的疑问，登录了《GGO》。 为了找到《死枪》的线索，桐人在不习惯的游戏中彷徨着。向如此的他伸出援助之手的，是酷爱使用超长狙击步枪《Hecate II》的狙击手少女诗浓。 新章节突入！&lt;/p&gt;</dc:description>
         <dc:language>zho</dc:language>
         <dc:subject>轻小说</dc:subject>
+        <dc:subject>SAO</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="刀剑神域"/>
-        <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2020-10-13T13:19:37.320762+00:00"/>
-        <meta name="calibre:title_sort" content="Sword Art Online刀剑神域[第五卷]"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2020-10-13T13:19:37+00:00"/>
+        <meta name="calibre:title_sort" content="[刀剑神域] - 05 幽灵子弹（上）"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

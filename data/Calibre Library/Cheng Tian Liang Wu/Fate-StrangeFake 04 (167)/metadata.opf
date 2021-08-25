@@ -3,23 +3,19 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">167</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">1d0d7311-e3b5-4aaf-8085-7d7312daf63c</dc:identifier>
-        <dc:title>fate strange fake 第四卷</dc:title>
+        <dc:title>Fate-StrangeFake 04</dc:title>
         <dc:creator opf:file-as="成田良悟" opf:role="aut">成田良悟</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-06-01T00:00:00+00:00</dc:date>
-        <dc:description>翻译：精品堂
-录入：猥琐店小二、天物宝轮
-
-EPUB制作：黑白熊</dc:description>
-        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:description>&lt;p&gt;翻译：精品堂 录入：猥琐店小二、天物宝轮 EPUB制作：黑白熊&lt;/p&gt;</dc:description>
         <dc:language>zho</dc:language>
         <dc:subject>轻小说</dc:subject>
         <dc:subject>Fate</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;成田良悟&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Fate"/>
-        <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2020-10-18T02:15:37.867105+00:00"/>
-        <meta name="calibre:title_sort" content="fate strange fake 第四卷"/>
+        <meta name="calibre:series_index" content="5.40"/>
+        <meta name="calibre:timestamp" content="2020-10-18T02:15:37+00:00"/>
+        <meta name="calibre:title_sort" content="Fate-StrangeFake 04"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

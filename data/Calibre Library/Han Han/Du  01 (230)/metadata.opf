@@ -3,17 +3,18 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">230</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">ea2db5fa-852d-417e-a1b4-b7bdc953c882</dc:identifier>
-        <dc:title>毒</dc:title>
+        <dc:title>毒 01</dc:title>
         <dc:creator opf:file-as="韩寒" opf:role="aut">韩寒</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:description>毒</dc:description>
-        <dc:publisher>ixdzs.com</dc:publisher>
+        <dc:description>&lt;p&gt;毒&lt;/p&gt;</dc:description>
         <dc:language>zho</dc:language>
         <dc:subject>都市</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;韩寒&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-18T16:46:27.706190+00:00"/>
-        <meta name="calibre:title_sort" content="毒"/>
+        <meta name="calibre:series" content="毒"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-18T16:46:27+00:00"/>
+        <meta name="calibre:title_sort" content="毒 01"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>

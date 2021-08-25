@@ -3,18 +3,19 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">115</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">91e1ad1e-2c28-40f4-b6fb-b5d8b6005150</dc:identifier>
-        <dc:title>加速世界-第十八卷 黑之双剑士-迷糊动漫</dc:title>
+        <dc:title>[加速世界] - 18 黑之双剑士</dc:title>
         <dc:creator opf:file-as="川原砾" opf:role="aut">川原砾</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-05-31T00:00:00+00:00</dc:date>
-        <dc:publisher>迷糊动漫(www.yidm.com)</dc:publisher>
         <dc:identifier opf:scheme="URI">http://www.yidm.com/article/info/0/174.html</dc:identifier>
         <dc:language>zho</dc:language>
         <dc:subject>轻小说</dc:subject>
         <dc:subject>AccelWorld</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;川原砾&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-14T12:59:45.135626+00:00"/>
-        <meta name="calibre:title_sort" content="加速世界-第十八卷 黑之双剑士-迷糊动漫"/>
+        <meta name="calibre:series" content="加速世界"/>
+        <meta name="calibre:series_index" content="18"/>
+        <meta name="calibre:timestamp" content="2020-10-14T12:59:45+00:00"/>
+        <meta name="calibre:title_sort" content="[加速世界] - 18 黑之双剑士"/>
     </metadata>
     <guide>
         <reference type="cover" title="封面" href="cover.jpg"/>
