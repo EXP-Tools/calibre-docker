@@ -13,7 +13,7 @@
         - ./nginx/etc/calibre_site.conf:/etc/nginx/conf.d/calibre_site.conf
         - ./nginx/html:/usr/share/nginx/html
       ports:
-        - "80:80"
+        - "7999:80"
       networks: 
         vpn:
           ipv4_address: 172.168.25.2
@@ -45,7 +45,7 @@
   
   
     calibre_cms:
-      image: linuxserver/calibre-web:version-v5.6.0
+      image: linuxserver/calibre-web:version-0.6.12
       hostname: CALIBRE_CMS
       container_name: docker_calibre_cms
       environment:
