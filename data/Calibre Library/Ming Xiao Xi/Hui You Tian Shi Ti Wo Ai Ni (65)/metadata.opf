@@ -6,12 +6,14 @@
         <dc:title>会有天使替我爱你</dc:title>
         <dc:creator opf:file-as="明晓溪" opf:role="aut">明晓溪</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2016-01-03T14:20:35+00:00</dc:date>
-        <dc:description>会有天使替我爱你</dc:description>
+        <dc:date>2016-01-03T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;会有天使替我爱你&lt;/p&gt;</dc:description>
         <dc:publisher>ixdzs.com</dc:publisher>
         <dc:language>zho</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;明晓溪&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-14T04:45:47.166559+00:00"/>
+        <meta name="calibre:series" content="网文"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-14T04:45:47+00:00"/>
         <meta name="calibre:title_sort" content="会有天使替我爱你"/>
     </metadata>
     <guide>

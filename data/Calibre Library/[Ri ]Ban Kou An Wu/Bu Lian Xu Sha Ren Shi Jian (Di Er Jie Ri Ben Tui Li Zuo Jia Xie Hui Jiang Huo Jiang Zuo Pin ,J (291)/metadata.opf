@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">291</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0451284-3a55-4ed6-b6ad-3391dbf14f12</dc:identifier>
+        <dc:title>不连续杀人事件（第二届日本推理作家协会奖获奖作品，江户川乱步、松本清张赞誉推荐） (坂口安吾系列作品)</dc:title>
+        <dc:creator opf:file-as="[日]坂口安吾" opf:role="aut">[日]坂口安吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-07T16:00:00+00:00</dc:date>
+        <dc:publisher>浙江文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">e14b53b7-205f-44ac-ae2a-95ded76e0750</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;[日]坂口安吾&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-08-25T00:35:01.830211+00:00"/>
+        <meta name="calibre:title_sort" content="不连续杀人事件（第二届日本推理作家协会奖获奖作品，江户川乱步、松本清张赞誉推荐） (坂口安吾系列作品)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

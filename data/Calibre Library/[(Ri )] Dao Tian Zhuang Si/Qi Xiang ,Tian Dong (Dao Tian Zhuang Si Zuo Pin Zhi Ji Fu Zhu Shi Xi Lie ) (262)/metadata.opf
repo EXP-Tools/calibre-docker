@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">262</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b9f5107-6c8a-4c99-a3a4-f2de20911e16</dc:identifier>
+        <dc:title>奇想，天动(岛田庄司作品之吉敷竹史系列）</dc:title>
+        <dc:creator opf:file-as="【日】岛田庄司" opf:role="aut">【日】岛田庄司</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-02T16:00:00+00:00</dc:date>
+        <dc:publisher>新星出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787513311298</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07G59X7RD</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;【日】岛田庄司&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-08-25T00:33:26.880380+00:00"/>
+        <meta name="calibre:title_sort" content="奇想，天动(岛田庄司作品之吉敷竹史系列）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

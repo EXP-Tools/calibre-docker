@@ -7,11 +7,13 @@
         <dc:creator opf:file-as="顾漫" opf:role="aut">顾漫</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:description>何以笙箫默</dc:description>
+        <dc:description>&lt;p&gt;何以笙箫默&lt;/p&gt;</dc:description>
         <dc:publisher>ixdzs.com</dc:publisher>
         <dc:language>zho</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;顾漫&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-14T04:45:52.241273+00:00"/>
+        <meta name="calibre:series" content="网文"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2020-10-14T04:45:52+00:00"/>
         <meta name="calibre:title_sort" content="何以笙箫默"/>
     </metadata>
     <guide>

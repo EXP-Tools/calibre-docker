@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">252</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48a24cfc-4869-4c56-854f-f3be65db37bb</dc:identifier>
+        <dc:title>恶意</dc:title>
+        <dc:creator opf:file-as="东野圭吾" opf:role="aut">东野圭吾</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-01T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;大书库资源分享专用群0822&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>大书库资源分享专用群0822</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">d40305fa-e39f-4e2c-b9d0-0b0cf8e52069</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;东野圭吾&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="大书库资源分享专用群0822"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2021-08-25T00:30:25+00:00"/>
+        <meta name="calibre:title_sort" content="恶意"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

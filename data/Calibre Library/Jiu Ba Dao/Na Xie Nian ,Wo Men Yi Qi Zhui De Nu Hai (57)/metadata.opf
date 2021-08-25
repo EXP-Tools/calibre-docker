@@ -4,14 +4,17 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">57</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">682bbc7c-fc11-40d1-8df1-3ffd934412fa</dc:identifier>
         <dc:title>那些年，我们一起追的女孩</dc:title>
-        <dc:creator opf:file-as="未知" opf:role="aut">九把刀</dc:creator>
+        <dc:creator opf:file-as="九把刀" opf:role="aut">九把刀</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-03-13T00:00:00+00:00</dc:date>
-        <dc:description>九把刀作品</dc:description>
+        <dc:description>&lt;p&gt;九把刀作品&lt;/p&gt;</dc:description>
         <dc:publisher>uread 1.35.862 简体版</dc:publisher>
         <dc:language>zho</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;九把刀&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2020-10-13T17:11:56.346091+00:00"/>
+        <meta name="calibre:series" content="那些年"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2020-10-13T17:11:56+00:00"/>
         <meta name="calibre:title_sort" content="那些年，我们一起追的女孩"/>
     </metadata>
     <guide>

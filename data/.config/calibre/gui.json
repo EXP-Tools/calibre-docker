@@ -14,7 +14,7 @@
   "bulk-mde-casing-algorithm": "title_case",
   "bulk_metadata_window_geometry": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAACJAAAApAAABEcAAAOgAAAAigAAALgAAARGAAADmwAAAAAAAAAABggAAACKAAAAuAAABEYAAAOb"
+    "__value__": "AdnQywADAAAAAACJAAAAYAAABEcAAANcAAAAigAAAHQAAARGAAADVwAAAAAAAAAABpAAAACKAAAAdAAABEYAAANX"
   },
   "bulk_metadata_window_tab": 0,
   "cover_browser_splitter_vertical_state": [
@@ -125,12 +125,15 @@
   },
   "grid view visible": false,
   "library_usage_stats": {
-    "/config/Calibre Library": 7
+    "/config/Calibre Library": 9
   },
   "metasingle_window_geometry3": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAEDAAAAfwAABTwAAAODAAABBAAAAJMAAAU7AAADfgAAAAAAAAAABlQAAAEEAAAAkwAABTsAAAN+"
+    "__value__": "AdnQywADAAAAAAEDAAAAWAAABTwAAANcAAABBAAAAGwAAAU7AAADVwAAAAAAAAAABpAAAAEEAAAAbAAABTsAAANX"
   },
+  "questions_to_auto_skip": [
+    "tag_item_delete"
+  ],
   "quick_start_guide_added": true,
   "quickview visible": false,
   "recently_used_languages": [

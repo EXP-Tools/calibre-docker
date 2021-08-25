@@ -7,13 +7,13 @@
   services:
     nginx:
       hostname: NGINX
-      container_name: docker_nginx
+      container_name: docker_nginx_2
       image: nginx:mainline
       volumes:
         - ./nginx/etc/calibre_site.conf:/etc/nginx/conf.d/calibre_site.conf
         - ./nginx/html:/usr/share/nginx/html
       ports:
-        - "80:80"
+        - "7999:80"
       networks: 
         vpn:
           ipv4_address: 172.168.25.2

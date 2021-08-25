@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">277</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da677616-5877-4708-9ef9-8c54fded4d9d</dc:identifier>
+        <dc:title>&lt;C3C5D1C0C3A8DFE4DFE4A1B6D7EEBAF3B5C4CBB2D2C6C4A7B7A8A1B7&gt;</dc:title>
+        <dc:creator opf:file-as="&lt;C0E4D0A1C6D5&gt;" opf:role="aut">&lt;C0E4D0A1C6D5&gt;</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-26T14:53:46+00:00</dc:date>
+        <dc:language>zh</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;&lt;C0E4D0A1C6D5&gt;&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-08-25T00:34:56.533055+00:00"/>
+        <meta name="calibre:title_sort" content="&lt;C3C5D1C0C3A8DFE4DFE4A1B6D7EEBAF3B5C4CBB2D2C6C4A7B7A8A1B7&gt;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
