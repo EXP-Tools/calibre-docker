@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">297</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5a1a164-237a-4a9f-8ac5-24c1b6657be7</dc:identifier>
+        <dc:title>[仙之卷] - 05 三寸人间</dc:title>
+        <dc:creator opf:file-as="三寸人间, 05" opf:role="aut">05 三寸人间</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>zh</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;05 三寸人间&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-09-01T14:00:21.484782+00:00"/>
+        <meta name="calibre:title_sort" content="[仙之卷] - 05 三寸人间"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
