@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">263</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e5f6eca-1e0b-4345-b5ad-ee638ae18287</dc:identifier>
+        <dc:title>占星术杀人魔法</dc:title>
+        <dc:creator opf:file-as="岛田庄司" opf:role="aut">岛田庄司</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="ISBN">9787513306775</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>推理</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;岛田庄司&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-25T00:33:27+00:00"/>
+        <meta name="calibre:title_sort" content="占星术杀人魔法"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
