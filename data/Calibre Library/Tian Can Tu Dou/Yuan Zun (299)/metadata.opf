@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">299</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34f6d2fd-afb3-4ff0-9179-fc360f83f752</dc:identifier>
+        <dc:title>元尊</dc:title>
+        <dc:creator opf:file-as="天蚕土豆" opf:role="aut">天蚕土豆</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-07T00:00:00+00:00</dc:date>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;天蚕土豆&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-11-07T02:26:21.955545+00:00"/>
+        <meta name="calibre:title_sort" content="元尊"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
