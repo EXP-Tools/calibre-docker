@@ -1,16 +1,16 @@
 {
-  "add books dialog dir": "/books/ebooks-library/玄幻",
+  "add books dialog dir": "/books/ebooks-library/武侠",
   "database location dialog": "/config/Calibre Library",
   "notified-version-updates": {
     "__class__": "set",
     "__value__": [
       "5.6",
-      "5.3",
-      "5.8",
       "5.4",
-      "5.9",
+      "5.3",
       "5.7",
-      "5.5"
+      "5.8",
+      "5.5",
+      "5.9"
     ]
   },
   "s_r_search_mode": 0,
