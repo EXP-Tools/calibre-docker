@@ -14,7 +14,7 @@
   "bulk-mde-casing-algorithm": "title_case",
   "bulk_metadata_window_geometry": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAACJAAAAYAAABEcAAANcAAAAigAAAHQAAARGAAADVwAAAAAAAAAABpAAAACKAAAAdAAABEYAAANX"
+    "__value__": "AdnQywADAAAAAAMXAAAA6wAABtUAAAPnAAADGAAAAP8AAAbUAAAD4gAAAAAAAAAACgAAAAMYAAAA/wAABtQAAAPi"
   },
   "bulk_metadata_window_tab": 0,
   "cover_browser_splitter_vertical_state": [
@@ -121,19 +121,23 @@
   ],
   "duplicates-question-dialog-geometry": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAIQAAABSAAABBEAAALbAAACEQAAAVwAAAQQAAAC1gAAAAAAAAAABpwAAAIRAAABXAAABBAAAALW"
+    "__value__": "AdnQywADAAAAAAP0AAABjAAABfUAAAMfAAAD9QAAAaAAAAX0AAADGgAAAAAAAAAACgAAAAP1AAABoAAABfQAAAMa"
   },
   "grid view visible": false,
   "library_usage_stats": {
-    "/config/Calibre Library": 20
+    "/config/Calibre Library": 22
   },
   "metasingle_window_geometry3": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAEDAAAAWAAABTwAAANcAAABBAAAAGwAAAU7AAADVwAAAAAAAAAABZwAAAEEAAAAbAAABTsAAANX"
+    "__value__": "AdnQywADAAAAAAGgAAAAogAACEsAAAQwAAABoQAAALYAAAhKAAAEKwAAAAAAAAAACgAAAAGhAAAAtgAACEoAAAQr"
+  },
+  "preferences dialog geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAMvAAABMAAABtIAAAQYAAADMAAAAUQAAAbRAAAEEwAAAAAAAAAACgAAAAMwAAABRAAABtEAAAQT"
   },
   "previous_sort_order_BooksView": {
     "timestamp": false,
-    "title": true
+    "title": false
   },
   "questions_to_auto_skip": [
     "tag_item_delete"
@@ -141,7 +145,9 @@
   "quick_start_guide_added": true,
   "quickview visible": false,
   "recently_used_languages": [
-    "中文"
+    "中文",
+    "日语",
+    "英语"
   ],
   "search bar visible": true,
   "tag_browser_splitter_horizontal_state": [
